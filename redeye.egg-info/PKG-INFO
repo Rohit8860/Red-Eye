@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: redeye
-Version: 0.1.0
-Summary: Playwright wrapper for RED-EYE anti-fingerprinting browser
-Requires-Python: >=3.8
-Requires-Dist: playwright>=1.40
-Requires-Dist: typing_extensions
