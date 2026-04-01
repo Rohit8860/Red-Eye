@@ -1,0 +1,124 @@
+{
+  "timezone": "America/New_York",
+  "navigator": {
+    "hardwareConcurrency": 2,
+    "deviceMemory": 8,
+    "platform": "Linux x86_64",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0",
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "maxTouchPoints": 0,
+    "vendor": "",
+    "userAgentData": {
+      "brands": [
+        {
+          "brand": "Not:A-Brand",
+          "version": "99"
+        },
+        {
+          "brand": "HeadlessChrome",
+          "version": "145"
+        },
+        {
+          "brand": "Chromium",
+          "version": "145"
+        }
+      ],
+      "mobile": false,
+      "platform": "Linux",
+      "architecture": "x86",
+      "bitness": "64",
+      "model": "",
+      "platformVersion": "",
+      "uaFullVersion": "145.0.7632.6",
+      "fullVersionList": [
+        {
+          "brand": "Not:A-Brand",
+          "version": "99.0.0.0"
+        },
+        {
+          "brand": "HeadlessChrome",
+          "version": "145.0.7632.6"
+        },
+        {
+          "brand": "Chromium",
+          "version": "145.0.7632.6"
+        }
+      ]
+    }
+  },
+  "webgl": {
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 1660/PCIe/SSE2"
+  },
+  "screen": {
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1080,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "touch": false,
+    "devicePixelRatio": 1,
+    "hasHDR": false,
+    "innerWidth": 0,
+    "innerHeight": 0,
+    "outerWidth": 1920,
+    "outerHeight": 1080
+  },
+  "battery": {
+    "charging": true,
+    "level": 1.0
+  },
+  "multimediaDevices": {
+    "speakers": [],
+    "micros": [],
+    "webcams": []
+  },
+  "fonts": [
+    "Arimo",
+    "Cousine",
+    "Tinos",
+    "DejaVu Sans",
+    "DejaVu Sans Mono",
+    "STIX Two Math"
+  ],
+  "videoCodecs": {
+    "ogg": "",
+    "h264": "probably",
+    "webm": "probably"
+  },
+  "audioCodecs": {
+    "ogg": "probably",
+    "mp3": "probably",
+    "wav": "probably",
+    "m4a": "maybe",
+    "aac": "maybe"
+  },
+  "pluginsData": {
+    "plugins": [],
+    "mimeTypes": []
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "Accept-Language": "en-US;q=1.0",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "navigate",
+    "Sec-Fetch-Mode": "same-site",
+    "Sec-Fetch-Site": "?1",
+    "Sec-Fetch-User": "document"
+  },
+  "_metadata": {
+    "source": "browserforge",
+    "generated_date": "2026-04-01",
+    "browser": "firefox",
+    "os": "linux",
+    "device_type": "desktop",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0"
+  }
+}

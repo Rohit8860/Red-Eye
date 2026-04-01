@@ -1,0 +1,242 @@
+{
+  "timezone": "America/New_York",
+  "navigator": {
+    "hardwareConcurrency": 16,
+    "deviceMemory": 8,
+    "platform": "Win32",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "maxTouchPoints": 0,
+    "vendor": "",
+    "userAgentData": null
+  },
+  "webgl": {
+    "vendor": "Google Inc. (AMD)",
+    "renderer": "ANGLE (AMD, Radeon RX 5700 XT Direct3D11 vs_5_0 ps_5_0)"
+  },
+  "screen": {
+    "width": 2560,
+    "height": 1440,
+    "availWidth": 2560,
+    "availHeight": 1440,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "touch": false,
+    "devicePixelRatio": 1,
+    "hasHDR": false,
+    "innerWidth": 0,
+    "innerHeight": 0,
+    "outerWidth": 2121,
+    "outerHeight": 1191
+  },
+  "battery": {
+    "charging": true,
+    "level": 1.0
+  },
+  "multimediaDevices": {
+    "speakers": [],
+    "micros": [],
+    "webcams": []
+  },
+  "fonts": [
+    "Arial",
+    "Times New Roman",
+    "Courier New",
+    "Verdana",
+    "Georgia",
+    "Segoe UI",
+    "Segoe UI Emoji",
+    "Tahoma",
+    "Microsoft Sans Serif",
+    "Marlett",
+    "Wingdings",
+    "Cambria",
+    "Yu Gothic",
+    "Gabriola",
+    "Constantia",
+    "Segoe UI Light",
+    "Sitka Small",
+    "Webdings",
+    "MS UI Gothic",
+    "Segoe UI Black",
+    "Mongolian Baiti",
+    "Malgun Gothic Semilight",
+    "Trebuchet MS",
+    "Segoe Fluent Icons",
+    "Franklin Gothic Medium",
+    "Comic Sans MS",
+    "Segoe UI Semibold",
+    "Yu Gothic Medium",
+    "Segoe Script",
+    "MS Gothic",
+    "Segoe UI Semilight",
+    "Nirmala UI Semilight",
+    "Sylfaen",
+    "Gadugi",
+    "Calibri",
+    "Ink Free",
+    "SimSun-ExtB",
+    "Bahnschrift",
+    "Leelawadee UI",
+    "MS PGothic",
+    "MingLiU-ExtB",
+    "Microsoft Tai Le",
+    "Segoe MDL2 Assets",
+    "Microsoft Yi Baiti",
+    "Myanmar Text",
+    "Leelawadee UI Semilight",
+    "Candara",
+    "Candara Light",
+    "Sitka Heading",
+    "Yu Gothic Light",
+    "Microsoft YaHei Light",
+    "PMingLiU-ExtB",
+    "Nirmala UI",
+    "Microsoft JhengHei Light",
+    "Segoe UI Historic",
+    "Symbol",
+    "Calibri Light",
+    "Palatino Linotype",
+    "Microsoft YaHei",
+    "Arial Black"
+  ],
+  "videoCodecs": {
+    "ogg": "",
+    "h264": "probably",
+    "webm": "probably"
+  },
+  "audioCodecs": {
+    "ogg": "probably",
+    "mp3": "maybe",
+    "wav": "probably",
+    "m4a": "maybe",
+    "aac": "maybe"
+  },
+  "pluginsData": {
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      }
+    ],
+    "mimeTypes": [
+      "Portable Document Format~~application/pdf~~pdf",
+      "Portable Document Format~~text/pdf~~pdf"
+    ]
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US;q=1.0",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "navigate",
+    "Sec-Fetch-Mode": "same-site",
+    "Sec-Fetch-Site": "?1",
+    "Sec-Fetch-User": "document",
+    "Te": "trailers"
+  },
+  "_metadata": {
+    "source": "browserforge",
+    "generated_date": "2026-04-01",
+    "browser": "firefox",
+    "os": "windows",
+    "device_type": "desktop",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+  }
+}

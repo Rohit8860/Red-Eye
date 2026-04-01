@@ -1,0 +1,234 @@
+{
+  "timezone": "America/New_York",
+  "navigator": {
+    "hardwareConcurrency": 12,
+    "deviceMemory": 8,
+    "platform": "MacIntel",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "maxTouchPoints": 0,
+    "vendor": "",
+    "userAgentData": null
+  },
+  "webgl": {
+    "vendor": "Apple",
+    "renderer": "Apple M1 Pro"
+  },
+  "screen": {
+    "width": 1168,
+    "height": 755,
+    "availWidth": 1168,
+    "availHeight": 727,
+    "colorDepth": 30,
+    "pixelDepth": 30,
+    "touch": false,
+    "devicePixelRatio": 2,
+    "hasHDR": false,
+    "innerWidth": 0,
+    "innerHeight": 0,
+    "outerWidth": 1168,
+    "outerHeight": 727
+  },
+  "battery": {
+    "charging": true,
+    "level": 1.0
+  },
+  "multimediaDevices": {
+    "speakers": [],
+    "micros": [],
+    "webcams": []
+  },
+  "fonts": [
+    "Arial",
+    "Times New Roman",
+    "Courier New",
+    "Helvetica",
+    "Helvetica Neue",
+    "Menlo",
+    "Geneva",
+    "Monaco",
+    "Kohinoor Devanagari",
+    "Bradley Hand",
+    "Marker Felt",
+    "Bodoni 72",
+    "Lucida Grande",
+    "Hiragino Mincho ProN",
+    "Courier",
+    "PingFang TC",
+    "Baskerville",
+    "InaiMathi",
+    "Didot",
+    "Avenir",
+    "Impact",
+    "Herculanum",
+    "Apple Symbols",
+    "STIX Two Math",
+    "PingFang HK",
+    "Zapfino",
+    "Galvji",
+    "Noteworthy",
+    "Georgia",
+    "Noto Sans Gunjala Gondi",
+    "Chalkboard",
+    "Noto Serif Yezidi",
+    "Avenir Next",
+    "Futura",
+    "American Typewriter",
+    "Hiragino Sans",
+    "Arial Black",
+    "Verdana",
+    "Times",
+    "Copperplate",
+    "Apple SD Gothic Neo",
+    "Cochin",
+    "Arial Unicode MS",
+    "Noto Sans Masaram Gondi",
+    "PingFang SC",
+    "Trebuchet MS",
+    "Noto Sans Canadian Aboriginal",
+    "MuktaMahee Regular",
+    "STIX Two Text",
+    "SignPainter-HouseScript",
+    "Optima",
+    "Comic Sans MS"
+  ],
+  "videoCodecs": {
+    "ogg": "",
+    "h264": "probably",
+    "webm": "probably"
+  },
+  "audioCodecs": {
+    "ogg": "probably",
+    "mp3": "maybe",
+    "wav": "probably",
+    "m4a": "maybe",
+    "aac": "maybe"
+  },
+  "pluginsData": {
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      }
+    ],
+    "mimeTypes": [
+      "Portable Document Format~~application/pdf~~pdf",
+      "Portable Document Format~~text/pdf~~pdf"
+    ]
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US;q=1.0",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "navigate",
+    "Sec-Fetch-Mode": "same-site",
+    "Sec-Fetch-Site": "?1",
+    "Sec-Fetch-User": "document",
+    "Te": "trailers"
+  },
+  "_metadata": {
+    "source": "browserforge",
+    "generated_date": "2026-04-01",
+    "browser": "firefox",
+    "os": "macos",
+    "device_type": "desktop",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+  }
+}

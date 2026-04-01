@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=65", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "redeye"
+version = "1.0.0"
+description = "Anti-fingerprinting browser automation library built on a custom Firefox binary"
+requires-python = ">=3.8"
+dependencies = [
+    "playwright>=1.40",
+    "typing_extensions",
+]
+
+[project.scripts]
+redeye = "redeye.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["redeye*"]
+
+[tool.setuptools.package-data]
+redeye = ["profiles/*.json"]

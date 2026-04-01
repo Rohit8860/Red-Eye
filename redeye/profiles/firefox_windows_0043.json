@@ -1,0 +1,260 @@
+{
+  "timezone": "America/New_York",
+  "navigator": {
+    "hardwareConcurrency": 2,
+    "deviceMemory": 8,
+    "platform": "Win32",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "maxTouchPoints": 0,
+    "vendor": "",
+    "userAgentData": null
+  },
+  "webgl": {
+    "vendor": "Google Inc. (AMD)",
+    "renderer": "ANGLE (AMD, Radeon RX 6650 XT Direct3D11 vs_5_0 ps_5_0)"
+  },
+  "screen": {
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1080,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "touch": false,
+    "devicePixelRatio": 1,
+    "hasHDR": false,
+    "innerWidth": 0,
+    "innerHeight": 0,
+    "outerWidth": 1936,
+    "outerHeight": 1096
+  },
+  "battery": {
+    "charging": true,
+    "level": 1.0
+  },
+  "multimediaDevices": {
+    "speakers": [],
+    "micros": [],
+    "webcams": []
+  },
+  "fonts": [
+    "Arial",
+    "Times New Roman",
+    "Courier New",
+    "Verdana",
+    "Georgia",
+    "Segoe UI",
+    "Segoe UI Emoji",
+    "Tahoma",
+    "Microsoft Sans Serif",
+    "Marlett",
+    "Myanmar Text",
+    "SimSun",
+    "Microsoft PhagsPa",
+    "Segoe UI Symbol",
+    "Segoe MDL2 Assets",
+    "MingLiU-ExtB",
+    "Gadugi",
+    "Sitka Banner",
+    "Lucida Sans Unicode",
+    "Microsoft Himalaya",
+    "Impact",
+    "Yu Gothic Light",
+    "Lucida Console",
+    "Sitka Subheading",
+    "Webdings",
+    "Calibri",
+    "Javanese Text",
+    "PMingLiU-ExtB",
+    "HoloLens MDL2 Assets",
+    "MS UI Gothic",
+    "Segoe UI Semibold",
+    "Sitka Heading",
+    "Microsoft YaHei Light",
+    "Nirmala UI",
+    "Microsoft Tai Le",
+    "Microsoft New Tai Lue",
+    "MS PGothic",
+    "Gabriola",
+    "Franklin Gothic Medium",
+    "Candara Light",
+    "Arial Black",
+    "Comic Sans MS",
+    "Corbel Light",
+    "Wingdings",
+    "Leelawadee UI Semilight",
+    "Segoe UI Light",
+    "Segoe UI Black",
+    "Symbol",
+    "Mongolian Baiti",
+    "Sitka Small",
+    "Microsoft Yi Baiti",
+    "Malgun Gothic",
+    "Microsoft JhengHei",
+    "Ebrima",
+    "Nirmala UI Semilight",
+    "MS Gothic",
+    "Trebuchet MS",
+    "Microsoft YaHei",
+    "NSimSun",
+    "Segoe UI Variable",
+    "MV Boli",
+    "Constantia",
+    "Calibri Light",
+    "Cambria",
+    "Consolas",
+    "Leelawadee UI",
+    "Malgun Gothic Semilight",
+    "Segoe UI Semilight",
+    "Yu Gothic",
+    "SimSun-ExtB",
+    "Segoe Print",
+    "Microsoft JhengHei Light",
+    "Corbel",
+    "Segoe Fluent Icons",
+    "Bahnschrift",
+    "Yu Gothic Medium",
+    "Sitka Text",
+    "Sitka Display"
+  ],
+  "videoCodecs": {
+    "ogg": "",
+    "h264": "probably",
+    "webm": "probably"
+  },
+  "audioCodecs": {
+    "ogg": "probably",
+    "mp3": "maybe",
+    "wav": "probably",
+    "m4a": "maybe",
+    "aac": "maybe"
+  },
+  "pluginsData": {
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      }
+    ],
+    "mimeTypes": [
+      "Portable Document Format~~application/pdf~~pdf",
+      "Portable Document Format~~text/pdf~~pdf"
+    ]
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US;q=1.0",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "navigate",
+    "Sec-Fetch-Mode": "same-site",
+    "Sec-Fetch-Site": "?1",
+    "Sec-Fetch-User": "document",
+    "Te": "trailers"
+  },
+  "_metadata": {
+    "source": "browserforge",
+    "generated_date": "2026-04-01",
+    "browser": "firefox",
+    "os": "windows",
+    "device_type": "desktop",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+  }
+}

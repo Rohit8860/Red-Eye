@@ -1,0 +1,266 @@
+{
+  "timezone": "America/New_York",
+  "navigator": {
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "platform": "Win32",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "language": "en-US",
+    "languages": [
+      "en-US",
+      "en"
+    ],
+    "maxTouchPoints": 1,
+    "vendor": "",
+    "userAgentData": null
+  },
+  "webgl": {
+    "vendor": "Google Inc. (Intel)",
+    "renderer": "ANGLE (Intel, Intel(R) UHD Graphics 770 Direct3D11 vs_5_0 ps_5_0)"
+  },
+  "screen": {
+    "width": 4096,
+    "height": 1152,
+    "availWidth": 4096,
+    "availHeight": 1104,
+    "colorDepth": 24,
+    "pixelDepth": 24,
+    "touch": true,
+    "devicePixelRatio": 1.25,
+    "hasHDR": false,
+    "innerWidth": 0,
+    "innerHeight": 0,
+    "outerWidth": 1624,
+    "outerHeight": 976
+  },
+  "battery": {
+    "charging": true,
+    "level": 1.0
+  },
+  "multimediaDevices": {
+    "speakers": [],
+    "micros": [],
+    "webcams": []
+  },
+  "fonts": [
+    "Arial",
+    "Times New Roman",
+    "Courier New",
+    "Verdana",
+    "Georgia",
+    "Segoe UI",
+    "Segoe UI Emoji",
+    "Tahoma",
+    "Microsoft Sans Serif",
+    "Marlett",
+    "Calibri Light",
+    "Impact",
+    "Trebuchet MS",
+    "Microsoft YaHei",
+    "Sitka Display",
+    "Nirmala UI",
+    "Cambria",
+    "Ink Free",
+    "Constantia",
+    "SimSun-ExtB",
+    "Sitka Subheading",
+    "Sylfaen",
+    "Malgun Gothic Semilight",
+    "Javanese Text",
+    "Symbol",
+    "Segoe Print",
+    "SimSun",
+    "MS Gothic",
+    "Arial Black",
+    "Microsoft Himalaya",
+    "Wingdings",
+    "Comic Sans MS",
+    "Segoe UI Symbol",
+    "Microsoft Tai Le",
+    "Lucida Sans Unicode",
+    "Candara",
+    "Consolas",
+    "HoloLens MDL2 Assets",
+    "Segoe Script",
+    "MV Boli",
+    "MS PGothic",
+    "Sitka Small",
+    "Corbel Light",
+    "MingLiU-ExtB",
+    "Yu Gothic Light",
+    "Sitka Banner",
+    "Segoe UI Variable",
+    "Microsoft YaHei Light",
+    "Sitka Heading",
+    "NSimSun",
+    "Bahnschrift",
+    "MS UI Gothic",
+    "Calibri",
+    "Candara Light",
+    "Leelawadee UI Semilight",
+    "Lucida Console",
+    "Microsoft JhengHei Light",
+    "Microsoft PhagsPa",
+    "Segoe UI Semilight",
+    "PMingLiU-ExtB",
+    "Myanmar Text",
+    "Microsoft Yi Baiti",
+    "Sitka Text",
+    "Segoe UI Light",
+    "Segoe UI Black",
+    "Nirmala UI Semilight",
+    "Yu Gothic Medium",
+    "Webdings",
+    "Yu Gothic",
+    "Segoe UI Historic",
+    "Gadugi",
+    "Microsoft JhengHei",
+    "Franklin Gothic Medium",
+    "Palatino Linotype",
+    "Segoe UI Semibold",
+    "Mongolian Baiti",
+    "Gabriola",
+    "Corbel",
+    "Segoe MDL2 Assets",
+    "Segoe Fluent Icons",
+    "Ebrima",
+    "Microsoft New Tai Lue",
+    "Leelawadee UI",
+    "Malgun Gothic"
+  ],
+  "videoCodecs": {
+    "ogg": "",
+    "h264": "probably",
+    "webm": "probably"
+  },
+  "audioCodecs": {
+    "ogg": "probably",
+    "mp3": "maybe",
+    "wav": "probably",
+    "m4a": "maybe",
+    "aac": "maybe"
+  },
+  "pluginsData": {
+    "plugins": [
+      {
+        "name": "PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chrome PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Chromium PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "Microsoft Edge PDF Viewer",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      },
+      {
+        "name": "WebKit built-in PDF",
+        "description": "Portable Document Format",
+        "filename": "internal-pdf-viewer",
+        "mimeTypes": [
+          {
+            "type": "application/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          },
+          {
+            "type": "text/pdf",
+            "suffixes": "pdf",
+            "description": "Portable Document Format",
+            "enabledPlugin": "PDF Viewer"
+          }
+        ]
+      }
+    ],
+    "mimeTypes": [
+      "Portable Document Format~~application/pdf~~pdf",
+      "Portable Document Format~~text/pdf~~pdf"
+    ]
+  },
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US;q=1.0",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "navigate",
+    "Sec-Fetch-Mode": "same-site",
+    "Sec-Fetch-Site": "?1",
+    "Sec-Fetch-User": "document",
+    "Te": "trailers"
+  },
+  "_metadata": {
+    "source": "browserforge",
+    "generated_date": "2026-04-01",
+    "browser": "firefox",
+    "os": "windows",
+    "device_type": "mobile",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+  }
+}
