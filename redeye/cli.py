@@ -150,7 +150,7 @@ def cmd_status() -> None:
     """Installed version aur path dikhao."""
     version = _get_installed_version()
     if version:
-        binary = BROWSER_DIR / ("red-eye.exe" if os.name == "nt" else "red-eye")
+        binary = BROWSER_DIR / "bin" / ("red-eye.exe" if os.name == "nt" else "red-eye")
         exists = binary.exists()
         print(f"Red-Eye version : {version}")
         print(f"Location        : {BROWSER_DIR}")

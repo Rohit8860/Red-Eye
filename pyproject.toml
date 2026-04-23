@@ -3,9 +3,13 @@ requires = ["setuptools>=65", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "redeye"
-version = "1.0.0"
+name = "red-eye-browser"
+version = "1.0.2"
 description = "Anti-fingerprinting browser automation library built on a custom Firefox binary"
+readme = "README.md"
+authors = [
+    {name = "Rohit Prajapati", email = "prajapatirohit8860@gmail.com"}
+]
 requires-python = ">=3.8"
 dependencies = [
     "playwright>=1.40",

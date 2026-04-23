@@ -11,9 +11,9 @@ _REDEYE_HOME = Path.home() / ".redeye"
 _BIN_DIR     = _REDEYE_HOME / "browser"
 
 if os.name == "nt":  # Windows
-    DEFAULT_EXECUTABLE = _BIN_DIR / "red-eye.exe"
+    DEFAULT_EXECUTABLE = _BIN_DIR / "bin" / "red-eye.exe"
 else:                # Linux / macOS
-    DEFAULT_EXECUTABLE = _BIN_DIR / "red-eye"
+    DEFAULT_EXECUTABLE = _BIN_DIR / "bin" / "red-eye"
 
 DEFAULT_PROFILES_DIR = Path(__file__).resolve().parent / "profiles"
 
