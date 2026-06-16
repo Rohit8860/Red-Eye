@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Stockholm",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 12,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "sv-SE",
     "languages": [
-      "en-US",
+      "sv-SE",
+      "sv",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Intel",
-    "renderer": "Mesa Intel(R) UHD Graphics 750 (RKL GT1)"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce RTX 4070/PCIe/SSE2"
   },
   "screen": {
-    "width": 1920,
-    "height": 1200,
-    "availWidth": 1920,
-    "availHeight": 1200,
+    "width": 2624,
+    "height": 1476,
+    "availWidth": 2624,
+    "availHeight": 1476,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 1.4634146341463414,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1920,
-    "outerHeight": 1155
+    "outerWidth": 2166,
+    "outerHeight": 1447
   },
   "battery": {
     "charging": true,
@@ -47,7 +48,11 @@
     "Cousine",
     "Tinos",
     "DejaVu Sans",
-    "DejaVu Sans Mono"
+    "DejaVu Sans Mono",
+    "STIX Two Math",
+    "Bitstream Vera Sans Mono",
+    "DejaVu Serif",
+    "Noto Sans"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -165,7 +170,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -178,10 +183,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

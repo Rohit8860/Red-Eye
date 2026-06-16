@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Bangkok",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "th-TH",
     "languages": [
-      "en-US",
+      "th-TH",
+      "th",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +17,13 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M1 Max"
+    "renderer": "Apple M1"
   },
   "screen": {
-    "width": 1312,
-    "height": 848,
-    "availWidth": 1312,
-    "availHeight": 785,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1041,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1312,
-    "outerHeight": 784
+    "outerWidth": 1728,
+    "outerHeight": 1079
   },
   "battery": {
     "charging": true,
@@ -51,48 +52,16 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Noto Sans Gunjala Gondi",
-    "Bradley Hand",
-    "Kohinoor Devanagari",
-    "PingFang SC",
-    "Luminari",
-    "Avenir",
-    "Apple SD Gothic Neo",
-    "Arial Unicode MS",
-    "Didot",
-    "Georgia",
-    "Papyrus",
-    "Gill Sans",
-    "Marker Felt",
-    "Courier",
-    "Arial Black",
-    "Baskerville",
-    "Bodoni 72",
     "Zapfino",
-    "Noto Sans Masaram Gondi",
-    "Times",
-    "Galvji",
-    "Impact",
-    "InaiMathi",
+    "Avenir",
     "MuktaMahee Regular",
     "American Typewriter",
-    "Noteworthy",
     "Herculanum",
-    "STIX Two Text",
-    "Apple Symbols",
-    "Optima",
     "Copperplate",
-    "Noto Serif Yezidi",
-    "Futura",
-    "Comic Sans MS",
-    "Chalkboard",
-    "PingFang HK",
-    "Lucida Grande",
     "SignPainter-HouseScript",
-    "Hiragino Mincho ProN",
-    "Noto Sans Canadian Aboriginal",
-    "PingFang TC",
-    "STIX Two Math"
+    "Avenir Next",
+    "Verdana",
+    "Papyrus"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -210,7 +179,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -223,10 +192,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

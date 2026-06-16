@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Bangkok",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "th-TH",
     "languages": [
-      "en-US",
+      "th-TH",
+      "th",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GT 750M OpenGL Engine"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1093,
+    "width": 1440,
+    "height": 900,
+    "availWidth": 1440,
+    "availHeight": 744,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1624,
-    "outerHeight": 1021
+    "outerWidth": 1440,
+    "outerHeight": 744
   },
   "battery": {
     "charging": true,
@@ -51,34 +52,24 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Noto Sans Canadian Aboriginal",
-    "Herculanum",
     "Arial Black",
-    "Bradley Hand",
-    "Noto Sans Gunjala Gondi",
-    "Apple Symbols",
-    "STIX Two Text",
-    "Apple SD Gothic Neo",
-    "Impact",
-    "Galvji",
-    "Bodoni 72",
-    "Futura",
-    "Noteworthy",
-    "Cochin",
-    "Optima",
     "Arial Unicode MS",
     "Chalkboard",
-    "Gill Sans",
-    "Hiragino Mincho ProN",
-    "Papyrus",
+    "Apple Symbols",
     "Lucida Grande",
-    "Courier",
+    "MuktaMahee Regular",
+    "Hiragino Sans",
     "Verdana",
     "Baskerville",
-    "Copperplate",
-    "Trebuchet MS",
-    "Didot",
-    "Luminari"
+    "Hiragino Mincho ProN",
+    "Marker Felt",
+    "Bradley Hand",
+    "Kohinoor Devanagari",
+    "SignPainter-HouseScript",
+    "Futura",
+    "Comic Sans MS",
+    "Courier",
+    "Avenir"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -196,7 +187,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -209,10 +200,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

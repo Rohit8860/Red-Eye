@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Manila",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 4,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-PH",
     "languages": [
-      "en-US",
+      "en-PH",
+      "fil",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +17,13 @@
   },
   "webgl": {
     "vendor": "Intel",
-    "renderer": "Mesa Intel(R) HD Graphics 620 (KBL GT2)"
+    "renderer": "Mesa Intel(R) UHD Graphics 750 (RKL GT1)"
   },
   "screen": {
-    "width": 1920,
-    "height": 1080,
-    "availWidth": 1920,
-    "availHeight": 1080,
+    "width": 1600,
+    "height": 900,
+    "availWidth": 1600,
+    "availHeight": 875,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1854,
-    "outerHeight": 1048
+    "outerWidth": 1600,
+    "outerHeight": 875
   },
   "battery": {
     "charging": true,
@@ -49,8 +50,8 @@
     "DejaVu Sans",
     "DejaVu Sans Mono",
     "Noto Sans",
-    "DejaVu Serif",
-    "STIX Two Math"
+    "STIX Two Math",
+    "DejaVu Serif"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -168,7 +169,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -181,10 +182,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

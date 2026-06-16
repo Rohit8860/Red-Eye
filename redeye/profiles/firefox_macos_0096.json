@@ -1,14 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Moscow",
   "navigator": {
     "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ru-RU",
     "languages": [
-      "en-US",
-      "en"
+      "ru-RU",
+      "ru"
     ],
     "maxTouchPoints": 0,
     "vendor": "",
@@ -16,13 +16,13 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M3"
+    "renderer": "Apple M3 Pro"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1364,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1041,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1522,
-    "outerHeight": 1073
+    "outerWidth": 1728,
+    "outerHeight": 1024
   },
   "battery": {
     "charging": true,
@@ -51,43 +51,36 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "MuktaMahee Regular",
-    "Herculanum",
-    "Hiragino Sans",
-    "Chalkboard",
-    "Avenir Next",
-    "Courier",
-    "Impact",
-    "American Typewriter",
-    "Marker Felt",
-    "Cochin",
-    "Times",
-    "InaiMathi",
-    "Lucida Grande",
     "PingFang SC",
-    "Bodoni 72",
-    "Baskerville",
-    "Zapfino",
-    "PingFang HK",
+    "Bradley Hand",
+    "Arial Black",
     "Luminari",
-    "Kohinoor Devanagari",
     "Gill Sans",
-    "Apple SD Gothic Neo",
-    "Trebuchet MS",
-    "Comic Sans MS",
-    "STIX Two Text",
-    "Papyrus",
-    "Noto Serif Yezidi",
-    "Noto Sans Masaram Gondi",
-    "Arial Unicode MS",
-    "Copperplate",
-    "Didot",
-    "Optima",
-    "Noteworthy",
+    "Futura",
     "Avenir",
+    "STIX Two Text",
+    "Noto Sans Gunjala Gondi",
+    "Cochin",
     "Galvji",
+    "Comic Sans MS",
+    "Avenir Next",
+    "American Typewriter",
+    "Papyrus",
+    "Impact",
+    "Lucida Grande",
+    "Hiragino Mincho ProN",
+    "Noto Serif Yezidi",
+    "Verdana",
+    "Kohinoor Devanagari",
     "Georgia",
-    "Apple Symbols"
+    "Zapfino",
+    "InaiMathi",
+    "Noto Sans Masaram Gondi",
+    "Marker Felt",
+    "Apple SD Gothic Neo",
+    "Hiragino Sans",
+    "Copperplate",
+    "Herculanum"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -205,7 +198,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -218,10 +211,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

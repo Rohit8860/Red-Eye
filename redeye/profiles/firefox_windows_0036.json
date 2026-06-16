@@ -1,10 +1,10 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Los_Angeles",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -15,14 +15,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Google Inc. (NVIDIA)",
-    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 Super Direct3D11 vs_5_0 ps_5_0)"
+    "vendor": "Google Inc. (AMD)",
+    "renderer": "ANGLE (AMD, Radeon RX 5600 XT Direct3D11 vs_5_0 ps_5_0)"
   },
   "screen": {
-    "width": 1920,
-    "height": 1080,
-    "availWidth": 1920,
-    "availHeight": 1032,
+    "width": 5120,
+    "height": 1440,
+    "availWidth": 5120,
+    "availHeight": 1392,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 974,
-    "outerHeight": 1039
+    "outerWidth": 1884,
+    "outerHeight": 1392
   },
   "battery": {
     "charging": true,
@@ -53,42 +53,10 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
-    "Microsoft Himalaya",
-    "Segoe UI Variable",
-    "Malgun Gothic",
-    "Webdings",
-    "Leelawadee UI",
-    "Nirmala UI",
-    "Ebrima",
-    "Impact",
-    "MS Gothic",
-    "Sitka Subheading",
-    "Gabriola",
-    "Sylfaen",
-    "Candara Light",
-    "Segoe Script",
-    "MS UI Gothic",
-    "Ink Free",
-    "Yu Gothic Light",
-    "MV Boli",
-    "SimSun-ExtB",
-    "Segoe MDL2 Assets",
-    "Yu Gothic",
-    "Calibri Light",
-    "Segoe Print",
-    "Corbel Light",
-    "Malgun Gothic Semilight",
     "Segoe UI Semilight",
     "Symbol",
-    "Cambria",
-    "PMingLiU-ExtB",
-    "SimSun",
-    "Mongolian Baiti",
-    "Segoe UI Semibold",
-    "Myanmar Text",
-    "Wingdings",
-    "Leelawadee UI Semilight",
-    "Yu Gothic Medium"
+    "Arial Black",
+    "Yu Gothic"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -206,7 +174,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -219,10 +187,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

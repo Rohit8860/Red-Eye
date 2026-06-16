@@ -1,13 +1,15 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Zurich",
   "navigator": {
     "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "de-CH",
     "languages": [
-      "en-US",
+      "de-CH",
+      "fr-CH",
+      "it-CH",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +17,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M1 Pro"
   },
   "screen": {
-    "width": 1512,
-    "height": 982,
-    "availWidth": 1512,
-    "availHeight": 906,
+    "width": 3440,
+    "height": 1440,
+    "availWidth": 3440,
+    "availHeight": 1410,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 2,
+    "devicePixelRatio": 1,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1511,
-    "outerHeight": 900
+    "outerWidth": 1713,
+    "outerHeight": 1399
   },
   "battery": {
     "charging": true,
@@ -51,39 +53,24 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Verdana",
-    "PingFang HK",
-    "Bodoni 72",
-    "Baskerville",
-    "SignPainter-HouseScript",
-    "InaiMathi",
-    "Arial Black",
-    "Apple Symbols",
     "MuktaMahee Regular",
-    "Papyrus",
-    "Kohinoor Devanagari",
-    "Avenir Next",
-    "Marker Felt",
-    "Noteworthy",
-    "Chalkboard",
-    "Futura",
-    "Times",
     "Courier",
-    "PingFang TC",
-    "Impact",
-    "Noto Sans Gunjala Gondi",
-    "Apple SD Gothic Neo",
-    "Noto Serif Yezidi",
-    "Luminari",
-    "Zapfino",
-    "STIX Two Math",
-    "Herculanum",
     "Didot",
-    "Arial Unicode MS",
-    "American Typewriter",
+    "Verdana",
+    "STIX Two Text",
+    "Futura",
     "Bradley Hand",
-    "Lucida Grande",
-    "Gill Sans"
+    "Times",
+    "Apple Symbols",
+    "Comic Sans MS",
+    "Noto Sans Canadian Aboriginal",
+    "Cochin",
+    "Trebuchet MS",
+    "Chalkboard",
+    "Zapfino",
+    "Arial Unicode MS",
+    "Avenir Next",
+    "InaiMathi"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -201,7 +188,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -214,10 +201,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

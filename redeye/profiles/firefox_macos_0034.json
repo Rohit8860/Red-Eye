@@ -1,10 +1,10 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Los_Angeles",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -19,19 +19,19 @@
     "renderer": "NVIDIA GeForce GT 750M OpenGL Engine"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1093,
+    "width": 3440,
+    "height": 1440,
+    "availWidth": 3440,
+    "availHeight": 1410,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 2,
+    "devicePixelRatio": 1,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1624,
-    "outerHeight": 1021
+    "outerWidth": 1713,
+    "outerHeight": 1399
   },
   "battery": {
     "charging": true,
@@ -51,45 +51,10 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Noto Sans Gunjala Gondi",
-    "InaiMathi",
-    "Herculanum",
-    "Noto Sans Canadian Aboriginal",
-    "SignPainter-HouseScript",
-    "Baskerville",
-    "Lucida Grande",
-    "Hiragino Mincho ProN",
-    "Optima",
-    "Arial Black",
-    "Impact",
-    "Marker Felt",
-    "PingFang TC",
-    "Avenir",
-    "Noteworthy",
-    "PingFang SC",
-    "STIX Two Text",
-    "Times",
-    "Copperplate",
-    "Apple Symbols",
-    "Zapfino",
-    "Arial Unicode MS",
-    "Apple SD Gothic Neo",
-    "Bradley Hand",
-    "American Typewriter",
-    "Trebuchet MS",
-    "Comic Sans MS",
-    "Hiragino Sans",
-    "PingFang HK",
-    "Courier",
     "MuktaMahee Regular",
-    "STIX Two Math",
-    "Kohinoor Devanagari",
-    "Galvji",
-    "Didot",
-    "Gill Sans",
-    "Chalkboard",
-    "Futura",
-    "Georgia"
+    "Apple SD Gothic Neo",
+    "Arial Black",
+    "SignPainter-HouseScript"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -207,7 +172,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -220,10 +185,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

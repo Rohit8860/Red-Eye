@@ -4,13 +4,45 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "red-eye-browser"
-version = "1.0.2"
+version = "1.0.4"
 description = "Anti-fingerprinting browser automation library built on a custom Firefox binary"
 readme = "README.md"
+license = {text = "MIT"}
 authors = [
     {name = "Rohit Prajapati", email = "prajapatirohit8860@gmail.com"}
 ]
-requires-python = ">=3.8"
+keywords = [
+    "red-eye",
+    "red-eye-browser",
+    "anti-fingerprint",
+    "fingerprint-spoofing",
+    "browser-automation",
+    "stealth-browser",
+    "undetected-browser",
+    "anti-bot",
+    "bot-detection-bypass",
+    "web-scraping",
+    "headless-browser",
+    "canvas-fingerprint",
+    "webgl-spoof",
+    "proxy-browser",
+    "firefox-automation",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Topic :: Internet :: WWW/HTTP :: Browsers",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Testing",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: MacOS",
+    "Operating System :: POSIX :: Linux",
+]
+requires-python = ">=3.10"
 dependencies = [
     "playwright>=1.40",
     "typing_extensions",

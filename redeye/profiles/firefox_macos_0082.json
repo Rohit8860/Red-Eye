@@ -1,10 +1,10 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Pacific/Honolulu",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -15,14 +15,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5300M OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M3 Max"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1075,
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1004,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1800,
-    "outerHeight": 1075
+    "outerWidth": 1920,
+    "outerHeight": 970
   },
   "battery": {
     "charging": true,
@@ -51,24 +51,31 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Verdana",
-    "MuktaMahee Regular",
-    "Futura",
-    "Arial Black",
-    "Comic Sans MS",
-    "Bradley Hand",
-    "Apple Symbols",
-    "InaiMathi",
-    "Noto Serif Yezidi",
-    "Noto Sans Canadian Aboriginal",
-    "PingFang HK",
-    "STIX Two Math",
-    "SignPainter-HouseScript",
-    "PingFang TC",
     "PingFang SC",
-    "Optima",
-    "Papyrus",
-    "Georgia"
+    "Georgia",
+    "PingFang TC",
+    "Avenir Next",
+    "Arial Unicode MS",
+    "Didot",
+    "Noto Sans Masaram Gondi",
+    "Chalkboard",
+    "Baskerville",
+    "PingFang HK",
+    "Arial Black",
+    "Courier",
+    "Zapfino",
+    "Verdana",
+    "Kohinoor Devanagari",
+    "Apple Symbols",
+    "Futura",
+    "STIX Two Text",
+    "Cochin",
+    "Gill Sans",
+    "Hiragino Mincho ProN",
+    "Lucida Grande",
+    "Copperplate",
+    "Comic Sans MS",
+    "SignPainter-HouseScript"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -186,7 +193,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -199,10 +206,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

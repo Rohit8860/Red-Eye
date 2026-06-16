@@ -1,37 +1,39 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Singapore",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 12,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-SG",
     "languages": [
-      "en-US",
-      "en"
+      "en-SG",
+      "en",
+      "zh",
+      "ms"
     ],
     "maxTouchPoints": 0,
     "vendor": "",
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "X.Org",
-    "renderer": "AMD Radeon RX 6800 XT (NAVI21, DRM 3.44.0, 5.18.0-12-generic, LLVM 14.0.0)"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 980/PCIe/SSE2"
   },
   "screen": {
-    "width": 1366,
-    "height": 768,
-    "availWidth": 1366,
-    "availHeight": 768,
+    "width": 2624,
+    "height": 1476,
+    "availWidth": 2624,
+    "availHeight": 1476,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 1.4634146341463414,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1366,
-    "outerHeight": 736
+    "outerWidth": 2166,
+    "outerHeight": 1447
   },
   "battery": {
     "charging": true,
@@ -48,10 +50,7 @@
     "Tinos",
     "DejaVu Sans",
     "DejaVu Sans Mono",
-    "Noto Sans",
-    "Bitstream Vera Sans Mono",
-    "STIX Two Math",
-    "DejaVu Serif"
+    "STIX Two Math"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -169,7 +168,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -182,10 +181,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

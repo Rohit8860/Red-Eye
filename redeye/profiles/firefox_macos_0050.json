@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Africa/Cairo",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 14,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ar-EG",
     "languages": [
-      "en-US",
+      "ar-EG",
+      "ar",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Intel Inc.",
-    "renderer": "Intel Iris Pro OpenGL Engine"
+    "vendor": "ATI Technologies Inc.",
+    "renderer": "AMD Radeon Pro 5300M OpenGL Engine"
   },
   "screen": {
-    "width": 3440,
-    "height": 1440,
-    "availWidth": 3440,
-    "availHeight": 1320,
+    "width": 2816,
+    "height": 1584,
+    "availWidth": 2816,
+    "availHeight": 1551,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 1.8181818181818181,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1720,
-    "outerHeight": 1320
+    "outerWidth": 1423,
+    "outerHeight": 1567
   },
   "battery": {
     "charging": true,
@@ -51,35 +52,19 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Kohinoor Devanagari",
-    "Hiragino Mincho ProN",
-    "Arial Black",
-    "InaiMathi",
-    "STIX Two Math",
-    "Times",
-    "Georgia",
-    "American Typewriter",
-    "Bodoni 72",
-    "Noteworthy",
-    "Futura",
-    "Herculanum",
-    "Trebuchet MS",
-    "Chalkboard",
-    "Verdana",
-    "Optima",
-    "Noto Sans Gunjala Gondi",
-    "Zapfino",
-    "Noto Serif Yezidi",
-    "Noto Sans Masaram Gondi",
-    "Courier",
-    "Arial Unicode MS",
-    "Avenir",
-    "Galvji",
     "Impact",
+    "STIX Two Text",
+    "Copperplate",
+    "Georgia",
+    "Bodoni 72",
+    "Chalkboard",
+    "Comic Sans MS",
+    "Noto Sans Masaram Gondi",
+    "Hiragino Mincho ProN",
+    "STIX Two Math",
+    "American Typewriter",
     "Luminari",
-    "MuktaMahee Regular",
-    "Baskerville",
-    "Hiragino Sans"
+    "Courier"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -197,7 +182,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -210,10 +195,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

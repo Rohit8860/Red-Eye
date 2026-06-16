@@ -1,13 +1,15 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Dhaka",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "bn-BD",
     "languages": [
-      "en-US",
+      "bn-BD",
+      "en-BD",
+      "bn",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +18,13 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M2 Max"
+    "renderer": "Apple M2 Pro"
   },
   "screen": {
     "width": 2560,
     "height": 1440,
     "availWidth": 2560,
-    "availHeight": 1364,
+    "availHeight": 1371,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +32,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1728,
-    "outerHeight": 1080
+    "outerWidth": 2560,
+    "outerHeight": 1371
   },
   "battery": {
     "charging": true,
@@ -51,16 +53,11 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Times",
-    "Lucida Grande",
+    "Verdana",
+    "PingFang HK",
+    "Arial Unicode MS",
     "Gill Sans",
-    "Noteworthy",
-    "InaiMathi",
-    "Hiragino Mincho ProN",
-    "Didot",
-    "Apple SD Gothic Neo",
-    "Baskerville",
-    "Impact"
+    "Baskerville"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -178,7 +175,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -191,10 +188,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

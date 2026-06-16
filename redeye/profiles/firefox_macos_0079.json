@@ -1,10 +1,10 @@
 {
   "timezone": "America/New_York",
   "navigator": {
-    "hardwareConcurrency": 2,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -16,22 +16,22 @@
   },
   "webgl": {
     "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
+    "renderer": "AMD Radeon Pro 580 OpenGL Engine"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1364,
+    "width": 1710,
+    "height": 1107,
+    "availWidth": 1710,
+    "availHeight": 1010,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1654,
-    "outerHeight": 1410
+    "outerWidth": 1710,
+    "outerHeight": 991
   },
   "battery": {
     "charging": true,
@@ -51,42 +51,17 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Impact",
-    "PingFang SC",
-    "MuktaMahee Regular",
-    "InaiMathi",
-    "Comic Sans MS",
-    "American Typewriter",
-    "Noteworthy",
-    "Copperplate",
-    "Noto Sans Gunjala Gondi",
-    "SignPainter-HouseScript",
-    "Optima",
-    "Arial Black",
-    "STIX Two Text",
-    "Luminari",
-    "Zapfino",
-    "Apple SD Gothic Neo",
-    "Verdana",
-    "Hiragino Sans",
-    "Avenir Next",
-    "Didot",
-    "Noto Sans Canadian Aboriginal",
-    "PingFang TC",
-    "Lucida Grande",
-    "Times",
-    "Gill Sans",
-    "Chalkboard",
     "Courier",
-    "Avenir",
-    "Hiragino Mincho ProN",
-    "Arial Unicode MS",
-    "Noto Serif Yezidi",
-    "Bodoni 72",
-    "Papyrus",
-    "Cochin",
+    "Chalkboard",
     "Herculanum",
-    "Kohinoor Devanagari"
+    "Apple SD Gothic Neo",
+    "Noto Sans Masaram Gondi",
+    "Arial Black",
+    "Arial Unicode MS",
+    "Bodoni 72",
+    "Gill Sans",
+    "MuktaMahee Regular",
+    "Galvji"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -204,7 +179,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -217,10 +192,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

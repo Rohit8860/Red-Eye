@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Africa/Johannesburg",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 12,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-ZA",
     "languages": [
-      "en-US",
+      "en-ZA",
+      "af",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 560X OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M3 Max"
   },
   "screen": {
-    "width": 1920,
-    "height": 1080,
-    "availWidth": 1920,
-    "availHeight": 1080,
+    "width": 1512,
+    "height": 982,
+    "availWidth": 1512,
+    "availHeight": 949,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -31,7 +32,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 1512,
-    "outerHeight": 950
+    "outerHeight": 949
   },
   "battery": {
     "charging": true,
@@ -51,30 +52,32 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Comic Sans MS",
-    "Didot",
-    "MuktaMahee Regular",
-    "STIX Two Text",
-    "Impact",
-    "Trebuchet MS",
-    "STIX Two Math",
-    "Avenir",
-    "Baskerville",
+    "Luminari",
+    "Arial Unicode MS",
     "Bradley Hand",
-    "Noto Sans Masaram Gondi",
-    "PingFang TC",
-    "InaiMathi",
-    "PingFang SC",
-    "Noteworthy",
-    "Noto Serif Yezidi",
-    "Copperplate",
     "Herculanum",
-    "Georgia",
-    "Verdana",
-    "Gill Sans",
+    "Avenir Next",
+    "PingFang TC",
+    "Bodoni 72",
+    "Hiragino Mincho ProN",
+    "Arial Black",
+    "Baskerville",
+    "Hiragino Sans",
+    "Copperplate",
+    "Papyrus",
+    "STIX Two Text",
+    "Futura",
+    "Chalkboard",
+    "InaiMathi",
+    "Noto Serif Yezidi",
+    "Galvji",
+    "SignPainter-HouseScript",
+    "Impact",
     "Courier",
-    "Apple SD Gothic Neo",
-    "Galvji"
+    "STIX Two Math",
+    "Optima",
+    "Comic Sans MS",
+    "Apple SD Gothic Neo"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -192,7 +195,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -205,10 +208,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

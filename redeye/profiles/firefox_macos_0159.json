@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Africa/Cairo",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ar-EG",
     "languages": [
-      "en-US",
+      "ar-EG",
+      "ar",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,8 +16,8 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M3 Pro"
+    "vendor": "Intel Inc.",
+    "renderer": "Intel Iris OpenGL Engine"
   },
   "screen": {
     "width": 1728,
@@ -31,7 +32,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 1728,
-    "outerHeight": 1084
+    "outerHeight": 1079
   },
   "battery": {
     "charging": true,
@@ -51,10 +52,26 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Impact",
     "Hiragino Mincho ProN",
+    "Futura",
+    "Apple SD Gothic Neo",
+    "Didot",
+    "STIX Two Math",
+    "American Typewriter",
+    "Avenir Next",
+    "Trebuchet MS",
     "PingFang HK",
-    "Galvji"
+    "SignPainter-HouseScript",
+    "Hiragino Sans",
+    "PingFang TC",
+    "Bradley Hand",
+    "Noto Serif Yezidi",
+    "Lucida Grande",
+    "STIX Two Text",
+    "InaiMathi",
+    "Gill Sans",
+    "Courier",
+    "Georgia"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -172,7 +189,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -185,10 +202,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

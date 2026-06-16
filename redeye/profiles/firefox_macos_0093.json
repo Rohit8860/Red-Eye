@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Shanghai",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "zh-CN",
     "languages": [
-      "en-US",
+      "zh-CN",
+      "zh",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +17,13 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M3 Max"
+    "renderer": "Apple M3"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1075,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1041,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1800,
-    "outerHeight": 1075
+    "outerWidth": 1728,
+    "outerHeight": 1079
   },
   "battery": {
     "charging": true,
@@ -51,19 +52,37 @@
     "Menlo",
     "Geneva",
     "Monaco",
+    "Noto Sans Gunjala Gondi",
     "Bodoni 72",
-    "PingFang SC",
-    "Arial Black",
-    "Didot",
-    "Comic Sans MS",
-    "Kohinoor Devanagari",
-    "Zapfino",
-    "Optima",
-    "Herculanum",
-    "Noto Sans Masaram Gondi",
+    "Apple SD Gothic Neo",
     "Verdana",
-    "Chalkboard",
-    "Noto Sans Canadian Aboriginal"
+    "Apple Symbols",
+    "Copperplate",
+    "SignPainter-HouseScript",
+    "Noteworthy",
+    "PingFang SC",
+    "Times",
+    "Zapfino",
+    "Hiragino Mincho ProN",
+    "Herculanum",
+    "Comic Sans MS",
+    "Noto Sans Canadian Aboriginal",
+    "Georgia",
+    "PingFang HK",
+    "Baskerville",
+    "Gill Sans",
+    "PingFang TC",
+    "Trebuchet MS",
+    "Lucida Grande",
+    "STIX Two Math",
+    "Optima",
+    "MuktaMahee Regular",
+    "Cochin",
+    "Avenir Next",
+    "Courier",
+    "American Typewriter",
+    "Arial Black",
+    "Hiragino Sans"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -181,7 +200,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -194,10 +213,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

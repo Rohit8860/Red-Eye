@@ -1,10 +1,10 @@
 {
   "timezone": "America/New_York",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 14,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -16,13 +16,13 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M3"
+    "renderer": "Apple M3 Pro"
   },
   "screen": {
-    "width": 1168,
-    "height": 755,
-    "availWidth": 1168,
-    "availHeight": 727,
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1004,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1168,
-    "outerHeight": 727
+    "outerWidth": 1920,
+    "outerHeight": 970
   },
   "battery": {
     "charging": true,
@@ -51,43 +51,29 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Hiragino Sans",
-    "Galvji",
-    "Bradley Hand",
-    "Courier",
-    "Bodoni 72",
-    "Noto Sans Canadian Aboriginal",
-    "Chalkboard",
-    "Gill Sans",
-    "Noto Serif Yezidi",
-    "SignPainter-HouseScript",
-    "Futura",
-    "PingFang HK",
-    "PingFang SC",
-    "Cochin",
-    "Hiragino Mincho ProN",
-    "Zapfino",
     "Trebuchet MS",
-    "STIX Two Math",
-    "Avenir Next",
-    "Didot",
-    "PingFang TC",
-    "Impact",
-    "MuktaMahee Regular",
-    "Papyrus",
+    "SignPainter-HouseScript",
+    "Arial Black",
     "Baskerville",
-    "InaiMathi",
-    "Noto Sans Masaram Gondi",
-    "Times",
-    "Herculanum",
-    "Avenir",
-    "Copperplate",
-    "Noteworthy",
+    "Impact",
+    "Cochin",
+    "STIX Two Text",
     "Comic Sans MS",
-    "Verdana",
-    "Marker Felt",
+    "Noteworthy",
+    "Noto Sans Canadian Aboriginal",
+    "Avenir Next",
+    "Bodoni 72",
+    "Avenir",
+    "Noto Serif Yezidi",
     "Lucida Grande",
-    "Luminari"
+    "Arial Unicode MS",
+    "MuktaMahee Regular",
+    "Times",
+    "Futura",
+    "Noto Sans Gunjala Gondi",
+    "PingFang SC",
+    "Herculanum",
+    "American Typewriter"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -205,7 +191,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -218,10 +204,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

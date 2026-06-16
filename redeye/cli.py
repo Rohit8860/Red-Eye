@@ -9,6 +9,7 @@ Usage:
 """
 
 import argparse
+import hashlib
 import json
 import os
 import platform
@@ -22,6 +23,27 @@ from pathlib import Path
 
 GITHUB_REPO   = "Rohit8860/Red-Eye"
 REDEYE_HOME   = Path.home() / ".redeye"
+
+# --- Install access gate -------------------------------------------------
+# Binary install ke liye ek code chahiye: `redeye install <code>`.
+# Plaintext code yahan KABHI store nahi hota — sirf salted SHA-256 digest.
+_INSTALL_CODE_SALT = "red-eye-install::"
+_INSTALL_CODE_HASH = "e44d618048aaf0e43dbe53a50ab86677e3900376aae5ed2408cc7724867a90dc"
+_INSTALL_CODE_MSG  = (
+    "An installation code is required to install the Red-Eye binary.\n"
+    "Please contact Rohit Prajapati - he will provide a code for binary installation.\n"
+    "\n"
+    "    Usage: redeye install <code>"
+)
+
+
+def _check_install_code(code) -> None:
+    """Code valid hai ya nahi verify karo; warna message dikhakar exit."""
+    if not code or hashlib.sha256(
+        (_INSTALL_CODE_SALT + str(code)).encode("utf-8")
+    ).hexdigest() != _INSTALL_CODE_HASH:
+        print(_INSTALL_CODE_MSG)
+        sys.exit(1)
 BROWSER_DIR   = REDEYE_HOME / "browser"
 VERSION_FILE  = REDEYE_HOME / "version.json"
 
@@ -96,8 +118,10 @@ def _download_with_progress(url: str, dest: Path) -> None:
         sys.exit(1)
 
 
-def cmd_install(version: str | None = None) -> None:
-    """Browser binary install karo."""
+def cmd_install(code: str | None = None, version: str | None = None) -> None:
+    """Browser binary install karo (access code required)."""
+    _check_install_code(code)
+
     if version is None:
         print("Fetching latest version...")
         version = _get_latest_version()
@@ -177,7 +201,9 @@ def main() -> None:
     sub = parser.add_subparsers(dest="command")
 
     # install
-    p_install = sub.add_parser("install", help="Browser binary install karo")
+    p_install = sub.add_parser("install", help="Browser binary install karo (code required)")
+    p_install.add_argument("code", nargs="?", default=None,
+                           help="Installation code (contact Rohit Prajapati)")
     p_install.add_argument("version", nargs="?", default=None,
                            help="Version to install (default: latest)")
 
@@ -190,7 +216,7 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.command == "install":
-        cmd_install(args.version)
+        cmd_install(args.code, args.version)
     elif args.command == "status":
         cmd_status()
     elif args.command == "uninstall":

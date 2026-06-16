@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Berlin",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "de-DE",
     "languages": [
-      "en-US",
+      "de-DE",
+      "de",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M2 Max"
+    "vendor": "Intel Inc.",
+    "renderer": "Intel HD Graphics 4000 OpenGL Engine"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1364,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1084,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -31,7 +32,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 1728,
-    "outerHeight": 1080
+    "outerHeight": 1084
   },
   "battery": {
     "charging": true,
@@ -51,25 +52,50 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Apple Symbols",
-    "Marker Felt",
-    "Hiragino Mincho ProN",
-    "Noto Sans Canadian Aboriginal",
+    "Bodoni 72",
+    "PingFang SC",
+    "PingFang HK",
+    "Noto Serif Yezidi",
+    "Courier",
     "Avenir",
-    "Noto Sans Masaram Gondi",
-    "Hiragino Sans",
-    "Papyrus",
-    "Georgia",
-    "Noto Sans Gunjala Gondi",
+    "Lucida Grande",
     "Avenir Next",
-    "Arial Unicode MS",
-    "Didot",
+    "Cochin",
+    "Apple SD Gothic Neo",
+    "InaiMathi",
     "Zapfino",
-    "Chalkboard",
-    "Bradley Hand",
+    "Apple Symbols",
+    "Galvji",
+    "Hiragino Sans",
+    "Comic Sans MS",
+    "Noteworthy",
+    "Noto Sans Canadian Aboriginal",
+    "Noto Sans Masaram Gondi",
+    "Trebuchet MS",
+    "Herculanum",
+    "STIX Two Text",
+    "Noto Sans Gunjala Gondi",
+    "American Typewriter",
+    "SignPainter-HouseScript",
     "Futura",
+    "Marker Felt",
+    "Papyrus",
     "Copperplate",
-    "Impact"
+    "Verdana",
+    "Impact",
+    "STIX Two Math",
+    "Gill Sans",
+    "Kohinoor Devanagari",
+    "Georgia",
+    "MuktaMahee Regular",
+    "Bradley Hand",
+    "Didot",
+    "PingFang TC",
+    "Times",
+    "Optima",
+    "Luminari",
+    "Hiragino Mincho ProN",
+    "Baskerville"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -187,7 +213,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -200,10 +226,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

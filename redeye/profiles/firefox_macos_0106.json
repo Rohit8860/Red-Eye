@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Seoul",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ko-KR",
     "languages": [
-      "en-US",
+      "ko-KR",
+      "ko",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -19,19 +20,19 @@
     "renderer": "Apple M2"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1440,
+    "width": 1710,
+    "height": 1107,
+    "availWidth": 1710,
+    "availHeight": 1010,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2560,
-    "outerHeight": 1410
+    "outerWidth": 1710,
+    "outerHeight": 991
   },
   "battery": {
     "charging": true,
@@ -51,17 +52,19 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Arial Unicode MS",
-    "Herculanum",
-    "Papyrus",
-    "Noto Sans Gunjala Gondi",
-    "Copperplate",
-    "MuktaMahee Regular",
-    "Bradley Hand",
-    "STIX Two Math",
-    "Luminari",
+    "InaiMathi",
     "Georgia",
-    "Avenir Next"
+    "Zapfino",
+    "Avenir",
+    "Galvji",
+    "Optima",
+    "Didot",
+    "Arial Unicode MS",
+    "Bradley Hand",
+    "Apple SD Gothic Neo",
+    "PingFang TC",
+    "Courier",
+    "Papyrus"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -179,7 +182,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -192,10 +195,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

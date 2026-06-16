@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Warsaw",
   "navigator": {
-    "hardwareConcurrency": 4,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "pl-PL",
     "languages": [
-      "en-US",
+      "pl-PL",
+      "pl",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "NVIDIA Corporation",
-    "renderer": "NVIDIA GeForce GT 750M OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M2 Max"
   },
   "screen": {
-    "width": 1512,
-    "height": 982,
-    "availWidth": 1512,
-    "availHeight": 982,
-    "colorDepth": 24,
-    "pixelDepth": 24,
+    "width": 3440,
+    "height": 1440,
+    "availWidth": 3440,
+    "availHeight": 1410,
+    "colorDepth": 30,
+    "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 2,
+    "devicePixelRatio": 1,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1512,
-    "outerHeight": 948
+    "outerWidth": 1713,
+    "outerHeight": 1399
   },
   "battery": {
     "charging": true,
@@ -51,40 +52,19 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Apple SD Gothic Neo",
-    "Herculanum",
-    "Apple Symbols",
-    "PingFang HK",
-    "Noteworthy",
-    "Avenir",
-    "STIX Two Text",
-    "Hiragino Sans",
-    "Kohinoor Devanagari",
-    "Comic Sans MS",
-    "Arial Unicode MS",
-    "MuktaMahee Regular",
-    "PingFang TC",
-    "Cochin",
-    "InaiMathi",
-    "Zapfino",
-    "Times",
-    "Baskerville",
-    "Noto Sans Gunjala Gondi",
-    "Avenir Next",
-    "Courier",
-    "Noto Sans Canadian Aboriginal",
     "STIX Two Math",
-    "PingFang SC",
-    "Arial Black",
+    "Cochin",
+    "Comic Sans MS",
+    "Bradley Hand",
+    "Lucida Grande",
+    "Baskerville",
     "Copperplate",
-    "SignPainter-HouseScript",
-    "Optima",
-    "Marker Felt",
-    "Trebuchet MS",
-    "Chalkboard",
-    "Hiragino Mincho ProN",
+    "Luminari",
+    "Hiragino Sans",
     "Verdana",
-    "Luminari"
+    "PingFang SC",
+    "Apple SD Gothic Neo",
+    "Avenir Next"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -202,7 +182,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -215,10 +195,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

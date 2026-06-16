@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Argentina/Buenos_Aires",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "es-AR",
     "languages": [
-      "en-US",
+      "es-AR",
+      "es",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,22 +17,22 @@
   },
   "webgl": {
     "vendor": "Apple",
-    "renderer": "Apple M2"
+    "renderer": "Apple M3"
   },
   "screen": {
-    "width": 1663,
-    "height": 1080,
-    "availWidth": 1618,
-    "availHeight": 1044,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1041,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1.8181818181818181,
+    "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1464,
-    "outerHeight": 1054
+    "outerWidth": 1728,
+    "outerHeight": 1079
   },
   "battery": {
     "charging": true,
@@ -51,43 +52,19 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Apple SD Gothic Neo",
-    "Hiragino Sans",
-    "PingFang HK",
-    "Apple Symbols",
-    "Herculanum",
-    "Futura",
-    "MuktaMahee Regular",
-    "Comic Sans MS",
-    "Lucida Grande",
-    "Bradley Hand",
-    "Noteworthy",
-    "Didot",
-    "Baskerville",
-    "Luminari",
-    "Arial Black",
-    "Impact",
-    "Marker Felt",
-    "Avenir Next",
-    "Zapfino",
-    "Trebuchet MS",
-    "Verdana",
-    "Cochin",
-    "Bodoni 72",
-    "InaiMathi",
-    "Hiragino Mincho ProN",
-    "American Typewriter",
-    "Noto Sans Masaram Gondi",
-    "Copperplate",
-    "Chalkboard",
-    "STIX Two Math",
-    "Courier",
     "Noto Sans Gunjala Gondi",
-    "Optima",
-    "SignPainter-HouseScript",
     "Avenir",
-    "Gill Sans",
-    "STIX Two Text"
+    "Impact",
+    "MuktaMahee Regular",
+    "STIX Two Text",
+    "Avenir Next",
+    "Courier",
+    "Luminari",
+    "Hiragino Mincho ProN",
+    "Comic Sans MS",
+    "PingFang HK",
+    "Georgia",
+    "Bradley Hand"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -205,7 +182,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -218,10 +195,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

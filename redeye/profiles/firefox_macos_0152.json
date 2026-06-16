@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Berlin",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "de-DE",
     "languages": [
-      "en-US",
+      "de-DE",
+      "de",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 580 OpenGL Engine"
+    "vendor": "Intel Inc.",
+    "renderer": "Intel Iris Pro OpenGL Engine"
   },
   "screen": {
-    "width": 1512,
-    "height": 982,
-    "availWidth": 1512,
-    "availHeight": 906,
+    "width": 1728,
+    "height": 1117,
+    "availWidth": 1728,
+    "availHeight": 1041,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1512,
-    "outerHeight": 944
+    "outerWidth": 1728,
+    "outerHeight": 1024
   },
   "battery": {
     "charging": true,
@@ -51,35 +52,40 @@
     "Menlo",
     "Geneva",
     "Monaco",
+    "Baskerville",
+    "Noteworthy",
+    "Bradley Hand",
     "Noto Sans Masaram Gondi",
-    "Avenir Next",
-    "Comic Sans MS",
+    "Gill Sans",
+    "InaiMathi",
+    "Trebuchet MS",
     "PingFang TC",
+    "Courier",
+    "Luminari",
+    "Avenir",
+    "Papyrus",
+    "Didot",
+    "Lucida Grande",
+    "Apple Symbols",
+    "STIX Two Math",
+    "MuktaMahee Regular",
+    "Georgia",
+    "Zapfino",
+    "Herculanum",
+    "Galvji",
+    "American Typewriter",
+    "Arial Black",
+    "Futura",
+    "Cochin",
+    "Bodoni 72",
+    "Times",
     "PingFang HK",
+    "Arial Unicode MS",
+    "Avenir Next",
     "STIX Two Text",
     "Noto Sans Canadian Aboriginal",
-    "Copperplate",
-    "Apple Symbols",
-    "MuktaMahee Regular",
-    "Galvji",
-    "Marker Felt",
-    "InaiMathi",
-    "STIX Two Math",
-    "Courier",
-    "Trebuchet MS",
-    "Noto Serif Yezidi",
-    "Optima",
-    "Noteworthy",
-    "Hiragino Mincho ProN",
-    "Lucida Grande",
-    "Verdana",
-    "SignPainter-HouseScript",
-    "Papyrus",
-    "PingFang SC",
-    "Futura",
-    "Kohinoor Devanagari",
-    "Georgia",
-    "Bodoni 72"
+    "Impact",
+    "Comic Sans MS"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -197,7 +203,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -210,10 +216,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

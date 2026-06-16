@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Ho_Chi_Minh",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "vi-VN",
     "languages": [
-      "en-US",
+      "vi-VN",
+      "vi",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M1"
+    "vendor": "ATI Technologies Inc.",
+    "renderer": "AMD Radeon Pro 5300M OpenGL Engine"
   },
   "screen": {
     "width": 1440,
     "height": 900,
     "availWidth": 1440,
-    "availHeight": 900,
+    "availHeight": 744,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -31,7 +32,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 1440,
-    "outerHeight": 900
+    "outerHeight": 744
   },
   "battery": {
     "charging": true,
@@ -52,50 +53,9 @@
     "Geneva",
     "Monaco",
     "SignPainter-HouseScript",
-    "Noto Serif Yezidi",
-    "PingFang HK",
-    "Noteworthy",
-    "American Typewriter",
-    "Bodoni 72",
-    "Verdana",
-    "Herculanum",
-    "Noto Sans Masaram Gondi",
-    "Arial Unicode MS",
-    "Chalkboard",
-    "Copperplate",
-    "Bradley Hand",
-    "Noto Sans Gunjala Gondi",
-    "Marker Felt",
-    "Futura",
-    "Hiragino Mincho ProN",
-    "PingFang SC",
-    "Arial Black",
-    "Zapfino",
-    "Avenir Next",
-    "Papyrus",
-    "Times",
-    "Apple SD Gothic Neo",
-    "Avenir",
-    "STIX Two Math",
-    "Cochin",
-    "Gill Sans",
-    "Galvji",
-    "Luminari",
-    "Courier",
-    "InaiMathi",
-    "Hiragino Sans",
     "Kohinoor Devanagari",
-    "MuktaMahee Regular",
-    "Didot",
-    "STIX Two Text",
-    "Baskerville",
-    "Noto Sans Canadian Aboriginal",
-    "Trebuchet MS",
-    "PingFang TC",
-    "Optima",
-    "Apple Symbols",
-    "Lucida Grande",
-    "Impact"
+    "Comic Sans MS",
+    "Arial Black"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -213,7 +173,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -226,10 +186,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

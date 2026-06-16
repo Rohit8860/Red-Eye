@@ -44,6 +44,9 @@ def launch_options(
     args: Optional[List[str]] = None,
     env: Optional[Dict[str, Union[str, float, bool]]] = None,
     proxy: Optional[Dict[str, str]] = None,
+    humanize: Union[bool, float, None] = None,
+    humanize_min_time: Optional[float] = None,
+    humanize_max_time: Optional[float] = None,
     **kwargs: Any,
 ) -> Dict[str, Any]:
     """
@@ -61,9 +64,28 @@ def launch_options(
         args:             Extra browser args.
         env:              Extra environment variables.
         proxy:            Playwright proxy dict (server, username, password).
+        humanize:         Enable human-like Bezier cursor trajectory for
+                          Page.dispatchMouseEvent mousemove. Pass True/False
+                          to toggle, or a float to enable and set the max
+                          movement duration in seconds (e.g. humanize=1.5).
+        humanize_min_time: Min cursor movement duration in seconds (default 0).
+        humanize_max_time: Max cursor movement duration in seconds (default 1.5).
         **kwargs:         Any additional Playwright launch options.
     """
     profile_data = _load_profile(profile) if profile is not None else get_random_profile(profiles_dir)
+
+    # RED-EYE humanize cursor — inject into profile JSON so the C++ side
+    # (RedEyeConfig::Init + ChromeUtils.redEyeGetBool) picks it up.
+    if humanize is not None:
+        if isinstance(humanize, bool):
+            profile_data["humanize"] = humanize
+        else:
+            profile_data["humanize"] = True
+            profile_data["humanize:maxTime"] = float(humanize)
+    if humanize_min_time is not None:
+        profile_data["humanize:minTime"] = float(humanize_min_time)
+    if humanize_max_time is not None:
+        profile_data["humanize:maxTime"] = float(humanize_max_time)
 
     if headless is None:
         headless = False

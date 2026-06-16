@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Tokyo",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ja-JP",
     "languages": [
-      "en-US",
+      "ja-JP",
+      "ja",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,8 +16,8 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "NVIDIA Corporation",
-    "renderer": "NVIDIA GeForce RTX 3080/PCIe/SSE2"
+    "vendor": "X.Org",
+    "renderer": "AMD Radeon RX 5700 XT (NAVI10, DRM 3.42.0, 5.15.0-89-generic, LLVM 14.0.0)"
   },
   "screen": {
     "width": 1920,
@@ -31,7 +32,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 1920,
-    "outerHeight": 1080
+    "outerHeight": 1034
   },
   "battery": {
     "charging": true,
@@ -49,7 +50,9 @@
     "DejaVu Sans",
     "DejaVu Sans Mono",
     "DejaVu Serif",
-    "Noto Sans"
+    "Noto Sans",
+    "Bitstream Vera Sans Mono",
+    "STIX Two Math"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -167,7 +170,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -180,10 +183,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

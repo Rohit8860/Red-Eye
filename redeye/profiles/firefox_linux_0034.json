@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Shanghai",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 2,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
+    "language": "zh-CN",
     "languages": [
-      "en-US",
+      "zh-CN",
+      "zh",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "NVIDIA Corporation",
-    "renderer": "NVIDIA GeForce GTX 1650/PCIe/SSE2"
+    "vendor": "X.Org",
+    "renderer": "AMD Radeon RX 480 (ELLESMERE, DRM 3.40.0, 5.10.0-19-amd64, LLVM 12.0.1)"
   },
   "screen": {
-    "width": 1920,
-    "height": 1080,
-    "availWidth": 1920,
-    "availHeight": 1040,
+    "width": 4437,
+    "height": 1248,
+    "availWidth": 4437,
+    "availHeight": 1248,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 1.1538461538461537,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1920,
-    "outerHeight": 1040
+    "outerWidth": 1433,
+    "outerHeight": 1201
   },
   "battery": {
     "charging": true,
@@ -48,7 +49,8 @@
     "Tinos",
     "DejaVu Sans",
     "DejaVu Sans Mono",
-    "Noto Sans"
+    "Bitstream Vera Sans Mono",
+    "STIX Two Math"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -166,7 +168,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -179,10 +181,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
   }
 }

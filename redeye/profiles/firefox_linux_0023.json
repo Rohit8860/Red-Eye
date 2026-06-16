@@ -1,13 +1,15 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Kyiv",
   "navigator": {
-    "hardwareConcurrency": 20,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "Linux x86_64",
-    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "uk-UA",
     "languages": [
-      "en-US",
+      "uk-UA",
+      "uk",
+      "ru",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +17,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Intel",
-    "renderer": "Mesa Intel(R) UHD Graphics 620 (KBL GT2)"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 980/PCIe/SSE2"
   },
   "screen": {
-    "width": 1440,
-    "height": 900,
-    "availWidth": 1440,
-    "availHeight": 880,
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1080,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
-    "devicePixelRatio": 2,
+    "devicePixelRatio": 1,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1440,
-    "outerHeight": 880
+    "outerWidth": 1920,
+    "outerHeight": 1034
   },
   "battery": {
     "charging": true,
@@ -47,9 +49,7 @@
     "Cousine",
     "Tinos",
     "DejaVu Sans",
-    "DejaVu Sans Mono",
-    "Noto Sans",
-    "DejaVu Serif"
+    "DejaVu Sans Mono"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -167,7 +167,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -180,10 +180,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Hong_Kong",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 16,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "zh-HK",
     "languages": [
-      "en-US",
+      "zh-HK",
+      "zh",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Google Inc. (AMD)",
-    "renderer": "ANGLE (AMD, Radeon RX 6700 XT Direct3D11 vs_5_0 ps_5_0)"
+    "vendor": "Google Inc. (NVIDIA)",
+    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1650 Super Direct3D11 vs_5_0 ps_5_0)"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1440,
+    "width": 3072,
+    "height": 1728,
+    "availWidth": 3072,
+    "availHeight": 1680,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 1.25,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2121,
-    "outerHeight": 1191
+    "outerWidth": 1652,
+    "outerHeight": 1292
   },
   "battery": {
     "charging": true,
@@ -53,26 +54,48 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
-    "Yu Gothic Light",
+    "Microsoft New Tai Lue",
+    "Corbel Light",
+    "Bahnschrift",
+    "MV Boli",
+    "Microsoft JhengHei Light",
+    "Trebuchet MS",
+    "Symbol",
     "SimSun-ExtB",
-    "MingLiU-ExtB",
-    "Microsoft JhengHei",
-    "Sitka Small",
     "Microsoft Tai Le",
-    "Ebrima",
-    "Segoe Print",
-    "Microsoft YaHei Light",
-    "Segoe Script",
-    "Microsoft Yi Baiti",
-    "HoloLens MDL2 Assets",
-    "Segoe MDL2 Assets",
-    "MS Gothic",
-    "Ink Free",
+    "Comic Sans MS",
     "PMingLiU-ExtB",
+    "Microsoft YaHei",
+    "HoloLens MDL2 Assets",
+    "Sitka Small",
+    "Corbel",
     "Sitka Subheading",
-    "Myanmar Text",
+    "Calibri Light",
+    "Leelawadee UI",
+    "Segoe UI Black",
+    "MS PGothic",
+    "Yu Gothic",
+    "Lucida Console",
+    "Mongolian Baiti",
+    "Leelawadee UI Semilight",
+    "Candara Light",
+    "MS Gothic",
+    "Malgun Gothic",
+    "Yu Gothic Light",
+    "Palatino Linotype",
+    "MingLiU-ExtB",
+    "Segoe Script",
+    "Calibri",
+    "Webdings",
+    "Microsoft JhengHei",
+    "Sitka Display",
     "Franklin Gothic Medium",
-    "Impact"
+    "Myanmar Text",
+    "Microsoft Himalaya",
+    "Microsoft YaHei Light",
+    "Impact",
+    "Gadugi",
+    "Yu Gothic Medium"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -190,7 +213,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -203,10 +226,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

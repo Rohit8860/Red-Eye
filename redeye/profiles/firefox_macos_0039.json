@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Istanbul",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "tr-TR",
     "languages": [
-      "en-US",
+      "tr-TR",
+      "tr",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M1 Max"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GT 750M OpenGL Engine"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1093,
+    "width": 2816,
+    "height": 1584,
+    "availWidth": 2816,
+    "availHeight": 1551,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 2,
+    "devicePixelRatio": 1.8181818181818181,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1624,
-    "outerHeight": 1021
+    "outerWidth": 1423,
+    "outerHeight": 1567
   },
   "battery": {
     "charging": true,
@@ -51,37 +52,18 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Avenir Next",
-    "Kohinoor Devanagari",
-    "Courier",
-    "Chalkboard",
-    "Zapfino",
-    "Noteworthy",
-    "Apple Symbols",
-    "American Typewriter",
-    "Bodoni 72",
-    "Gill Sans",
-    "Hiragino Mincho ProN",
-    "Futura",
-    "Georgia",
-    "Avenir",
-    "InaiMathi",
-    "Optima",
-    "PingFang TC",
-    "STIX Two Math",
     "Herculanum",
-    "Hiragino Sans",
-    "Marker Felt",
-    "Galvji",
-    "Papyrus",
-    "MuktaMahee Regular",
-    "Noto Sans Gunjala Gondi",
+    "American Typewriter",
+    "Didot",
     "PingFang SC",
-    "Bradley Hand",
-    "Cochin",
+    "Futura",
+    "Apple SD Gothic Neo",
+    "Chalkboard",
+    "Avenir",
+    "Marker Felt",
     "Luminari",
-    "Trebuchet MS",
-    "Times"
+    "Cochin",
+    "Arial Unicode MS"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -199,7 +181,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -212,10 +194,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

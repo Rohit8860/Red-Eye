@@ -1,14 +1,16 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Kolkata",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 12,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-IN",
     "languages": [
-      "en-US",
-      "en"
+      "en-IN",
+      "hi-IN",
+      "en",
+      "hi"
     ],
     "maxTouchPoints": 0,
     "vendor": "",
@@ -30,8 +32,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1936,
-    "outerHeight": 1056
+    "outerWidth": 1920,
+    "outerHeight": 1037
   },
   "battery": {
     "charging": true,
@@ -53,25 +55,19 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
-    "MS PGothic",
-    "Candara",
-    "Yu Gothic",
-    "Sitka Small",
-    "Constantia",
-    "Webdings",
-    "Segoe UI Symbol",
-    "Corbel",
-    "Sitka Subheading",
-    "Microsoft YaHei Light",
-    "Malgun Gothic Semilight",
-    "Segoe Script",
-    "Microsoft Yi Baiti",
-    "Sitka Heading",
-    "Lucida Console",
-    "Palatino Linotype",
-    "Mongolian Baiti",
+    "Segoe MDL2 Assets",
+    "NSimSun",
     "Sylfaen",
-    "Calibri"
+    "MS UI Gothic",
+    "Arial Black",
+    "Comic Sans MS",
+    "Segoe UI Variable",
+    "Yu Gothic Medium",
+    "Leelawadee UI",
+    "Sitka Banner",
+    "Segoe UI Symbol",
+    "Nirmala UI",
+    "Cambria"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -189,7 +185,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -202,10 +198,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Rome",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "it-IT",
     "languages": [
-      "en-US",
+      "it-IT",
+      "it",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,23 +16,23 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M3 Max"
+    "vendor": "Intel Inc.",
+    "renderer": "Intel Iris Pro OpenGL Engine"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1364,
+    "width": 1440,
+    "height": 900,
+    "availWidth": 1440,
+    "availHeight": 744,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1654,
-    "outerHeight": 1410
+    "outerWidth": 1440,
+    "outerHeight": 744
   },
   "battery": {
     "charging": true,
@@ -51,35 +52,29 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Gill Sans",
-    "Didot",
-    "Papyrus",
-    "Avenir",
-    "Noto Sans Gunjala Gondi",
-    "MuktaMahee Regular",
-    "Cochin",
-    "Copperplate",
-    "Zapfino",
-    "Optima",
-    "PingFang TC",
-    "Apple SD Gothic Neo",
-    "Impact",
-    "Bradley Hand",
-    "Hiragino Mincho ProN",
-    "Luminari",
     "Noto Serif Yezidi",
-    "SignPainter-HouseScript",
-    "Kohinoor Devanagari",
-    "PingFang SC",
-    "Avenir Next",
-    "Times",
+    "Bodoni 72",
+    "PingFang TC",
+    "Cochin",
+    "Didot",
+    "Optima",
+    "Noteworthy",
     "Chalkboard",
-    "Apple Symbols",
-    "Trebuchet MS",
-    "Noto Sans Masaram Gondi",
+    "PingFang SC",
+    "Noto Sans Gunjala Gondi",
+    "Futura",
+    "Bradley Hand",
+    "Comic Sans MS",
+    "SignPainter-HouseScript",
+    "STIX Two Text",
+    "Copperplate",
     "Marker Felt",
-    "Verdana",
-    "Galvji"
+    "Trebuchet MS",
+    "Papyrus",
+    "Herculanum",
+    "Noto Sans Canadian Aboriginal",
+    "Baskerville",
+    "Impact"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -197,7 +192,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -210,10 +205,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

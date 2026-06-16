@@ -1,37 +1,38 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Shanghai",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
-    "platform": "Linux armv81",
-    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0",
-    "language": "en-US",
+    "platform": "Linux x86_64",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "zh-CN",
     "languages": [
-      "en-US",
+      "zh-CN",
+      "zh",
       "en"
     ],
-    "maxTouchPoints": 5,
+    "maxTouchPoints": 0,
     "vendor": "",
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Intel",
-    "renderer": "Mesa Intel(R) HD Graphics 530 (SKL GT2)"
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 1050 Ti/PCIe/SSE2"
   },
   "screen": {
-    "width": 552,
-    "height": 1227,
-    "availWidth": 552,
-    "availHeight": 1227,
+    "width": 1707,
+    "height": 960,
+    "availWidth": 1707,
+    "availHeight": 960,
     "colorDepth": 24,
     "pixelDepth": 24,
-    "touch": true,
-    "devicePixelRatio": 1.3043478260869565,
+    "touch": false,
+    "devicePixelRatio": 1.5,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 557,
-    "outerHeight": 1040
+    "outerWidth": 1691,
+    "outerHeight": 923
   },
   "battery": {
     "charging": true,
@@ -50,7 +51,7 @@
     "DejaVu Sans Mono"
   ],
   "videoCodecs": {
-    "ogg": "probably",
+    "ogg": "",
     "h264": "probably",
     "webm": "probably"
   },
@@ -165,8 +166,8 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
     "Upgrade-Insecure-Requests": "1",
@@ -178,10 +179,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "linux",
-    "device_type": "mobile",
-    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"
+    "device_type": "desktop",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

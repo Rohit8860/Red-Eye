@@ -1,13 +1,13 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Australia/Sydney",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-AU",
     "languages": [
-      "en-US",
+      "en-AU",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +16,13 @@
   },
   "webgl": {
     "vendor": "Google Inc. (NVIDIA)",
-    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3060 Direct3D11 vs_5_0 ps_5_0)"
+    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1080 Direct3D11 vs_5_0 ps_5_0)"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1440,
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1040,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2121,
-    "outerHeight": 1191
+    "outerWidth": 1920,
+    "outerHeight": 1037
   },
   "battery": {
     "charging": true,
@@ -53,19 +53,47 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
-    "Sitka Display",
+    "Symbol",
+    "Microsoft YaHei Light",
     "Leelawadee UI Semilight",
-    "Cambria",
+    "Corbel",
+    "Microsoft Himalaya",
+    "Gadugi",
+    "Impact",
     "Palatino Linotype",
-    "Candara",
-    "MingLiU-ExtB",
-    "Segoe Fluent Icons",
+    "Mongolian Baiti",
+    "Sitka Display",
+    "MS UI Gothic",
+    "Javanese Text",
+    "Lucida Sans Unicode",
+    "MS Gothic",
+    "Wingdings",
+    "Segoe UI Semibold",
+    "Segoe Script",
+    "Yu Gothic Medium",
     "Nirmala UI Semilight",
-    "Segoe Print",
-    "Yu Gothic Light",
-    "Sitka Banner",
-    "Candara Light",
-    "Microsoft YaHei"
+    "Sitka Subheading",
+    "Calibri",
+    "MingLiU-ExtB",
+    "Ink Free",
+    "Yu Gothic",
+    "Calibri Light",
+    "Myanmar Text",
+    "Constantia",
+    "Microsoft Yi Baiti",
+    "Segoe UI Semilight",
+    "SimSun",
+    "Segoe UI Symbol",
+    "Sitka Small",
+    "Lucida Console",
+    "Segoe Fluent Icons",
+    "Corbel Light",
+    "Segoe UI Light",
+    "Microsoft PhagsPa",
+    "PMingLiU-ExtB",
+    "Leelawadee UI",
+    "SimSun-ExtB",
+    "Segoe MDL2 Assets"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -183,7 +211,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -196,10 +224,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

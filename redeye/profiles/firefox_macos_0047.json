@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Berlin",
   "navigator": {
-    "hardwareConcurrency": 11,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "de-DE",
     "languages": [
-      "en-US",
+      "de-DE",
+      "de",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,22 +17,22 @@
   },
   "webgl": {
     "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 560X OpenGL Engine"
+    "renderer": "AMD Radeon Pro 580 OpenGL Engine"
   },
   "screen": {
-    "width": 1512,
-    "height": 982,
-    "availWidth": 1512,
-    "availHeight": 982,
-    "colorDepth": 24,
-    "pixelDepth": 24,
+    "width": 1920,
+    "height": 1080,
+    "availWidth": 1920,
+    "availHeight": 1004,
+    "colorDepth": 30,
+    "pixelDepth": 30,
     "touch": false,
     "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1512,
-    "outerHeight": 948
+    "outerWidth": 1920,
+    "outerHeight": 970
   },
   "battery": {
     "charging": true,
@@ -51,28 +52,20 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Gill Sans",
-    "PingFang TC",
-    "Bodoni 72",
-    "SignPainter-HouseScript",
-    "MuktaMahee Regular",
-    "Baskerville",
-    "Optima",
-    "Copperplate",
-    "Apple Symbols",
-    "Noto Sans Canadian Aboriginal",
-    "Trebuchet MS",
-    "Noto Serif Yezidi",
-    "Impact",
-    "Arial Black",
-    "American Typewriter",
+    "Cochin",
     "Galvji",
-    "Marker Felt",
-    "Lucida Grande",
-    "Apple SD Gothic Neo",
     "Luminari",
-    "Courier",
-    "Bradley Hand"
+    "Lucida Grande",
+    "MuktaMahee Regular",
+    "Arial Black",
+    "Trebuchet MS",
+    "Avenir",
+    "Optima",
+    "PingFang TC",
+    "Noto Sans Gunjala Gondi",
+    "SignPainter-HouseScript",
+    "STIX Two Text",
+    "Times"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -190,7 +183,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -203,10 +196,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

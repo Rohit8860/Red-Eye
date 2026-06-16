@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Jakarta",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 14,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "id-ID",
     "languages": [
-      "en-US",
+      "id-ID",
+      "id",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +16,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M2 Pro"
   },
   "screen": {
-    "width": 1168,
-    "height": 755,
-    "availWidth": 1168,
-    "availHeight": 727,
+    "width": 1710,
+    "height": 1107,
+    "availWidth": 1710,
+    "availHeight": 1010,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1168,
-    "outerHeight": 727
+    "outerWidth": 1710,
+    "outerHeight": 991
   },
   "battery": {
     "charging": true,
@@ -51,39 +52,21 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Copperplate",
+    "Cochin",
+    "Avenir Next",
+    "Marker Felt",
+    "Times",
+    "Comic Sans MS",
+    "Trebuchet MS",
+    "PingFang HK",
+    "Apple SD Gothic Neo",
+    "Hiragino Sans",
+    "Didot",
     "Baskerville",
     "Optima",
-    "Hiragino Sans",
-    "Arial Black",
-    "Noteworthy",
-    "Hiragino Mincho ProN",
-    "Georgia",
-    "PingFang TC",
-    "Marker Felt",
-    "Noto Serif Yezidi",
-    "Arial Unicode MS",
-    "Times",
-    "Didot",
     "Papyrus",
-    "Gill Sans",
-    "SignPainter-HouseScript",
-    "MuktaMahee Regular",
-    "Futura",
-    "American Typewriter",
-    "Noto Sans Gunjala Gondi",
-    "Bodoni 72",
-    "Comic Sans MS",
-    "Apple Symbols",
-    "InaiMathi",
-    "PingFang SC",
-    "STIX Two Math",
-    "Zapfino",
-    "Courier",
-    "Impact",
-    "PingFang HK",
-    "Bradley Hand",
-    "STIX Two Text"
+    "Noto Serif Yezidi",
+    "PingFang TC"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -201,7 +184,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -214,10 +197,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

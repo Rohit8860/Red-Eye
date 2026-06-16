@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/Rome",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "it-IT",
     "languages": [
-      "en-US",
+      "it-IT",
+      "it",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +17,13 @@
   },
   "webgl": {
     "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 580 OpenGL Engine"
+    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1364,
+    "width": 1680,
+    "height": 1050,
+    "availWidth": 1680,
+    "availHeight": 1050,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1728,
-    "outerHeight": 1080
+    "outerWidth": 1680,
+    "outerHeight": 1050
   },
   "battery": {
     "charging": true,
@@ -51,34 +52,14 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "STIX Two Math",
-    "Avenir",
-    "Avenir Next",
-    "Arial Unicode MS",
-    "Galvji",
-    "Verdana",
-    "InaiMathi",
-    "MuktaMahee Regular",
-    "Apple SD Gothic Neo",
-    "Courier",
-    "PingFang HK",
-    "Comic Sans MS",
-    "Zapfino",
-    "Papyrus",
-    "Apple Symbols",
-    "Herculanum",
-    "Hiragino Sans",
-    "Trebuchet MS",
-    "Bradley Hand",
-    "Noto Serif Yezidi",
-    "Lucida Grande",
-    "STIX Two Text",
-    "Futura",
-    "SignPainter-HouseScript",
-    "Cochin",
-    "PingFang TC",
     "Copperplate",
-    "Impact"
+    "American Typewriter",
+    "Optima",
+    "Hiragino Mincho ProN",
+    "Cochin",
+    "Noto Sans Canadian Aboriginal",
+    "SignPainter-HouseScript",
+    "Avenir Next"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -196,7 +177,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -209,10 +190,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

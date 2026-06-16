@@ -1,10 +1,10 @@
 {
   "timezone": "America/New_York",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -19,10 +19,10 @@
     "renderer": "Apple M1 Pro"
   },
   "screen": {
-    "width": 2560,
+    "width": 3440,
     "height": 1440,
-    "availWidth": 2560,
-    "availHeight": 1440,
+    "availWidth": 3440,
+    "availHeight": 1410,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2560,
-    "outerHeight": 1410
+    "outerWidth": 1713,
+    "outerHeight": 1399
   },
   "battery": {
     "charging": true,
@@ -51,15 +51,28 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "STIX Two Text",
+    "American Typewriter",
     "Cochin",
-    "Luminari",
-    "Apple SD Gothic Neo",
-    "Galvji",
-    "Futura",
-    "Noto Sans Gunjala Gondi",
+    "Trebuchet MS",
+    "STIX Two Math",
+    "Marker Felt",
+    "Baskerville",
+    "SignPainter-HouseScript",
+    "Bodoni 72",
+    "Comic Sans MS",
+    "Arial Unicode MS",
+    "Lucida Grande",
+    "Noto Sans Canadian Aboriginal",
     "Chalkboard",
-    "Noto Sans Canadian Aboriginal"
+    "Avenir",
+    "Bradley Hand",
+    "Impact",
+    "Copperplate",
+    "InaiMathi",
+    "STIX Two Text",
+    "Apple SD Gothic Neo",
+    "Avenir Next",
+    "Zapfino"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -177,7 +190,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -190,10 +203,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

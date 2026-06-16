@@ -1,10 +1,10 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Chicago",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -15,14 +15,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Intel Inc.",
-    "renderer": "Intel Iris OpenGL Engine"
+    "vendor": "Apple",
+    "renderer": "Apple M3 Max"
   },
   "screen": {
-    "width": 1800,
-    "height": 1169,
-    "availWidth": 1800,
-    "availHeight": 1075,
+    "width": 1680,
+    "height": 1050,
+    "availWidth": 1680,
+    "availHeight": 1050,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1800,
-    "outerHeight": 1075
+    "outerWidth": 1680,
+    "outerHeight": 1050
   },
   "battery": {
     "charging": true,
@@ -51,48 +51,12 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Georgia",
-    "Copperplate",
-    "MuktaMahee Regular",
-    "Galvji",
-    "Arial Unicode MS",
-    "Futura",
-    "Hiragino Sans",
-    "Bodoni 72",
-    "Hiragino Mincho ProN",
-    "PingFang SC",
-    "Kohinoor Devanagari",
-    "PingFang HK",
-    "Noteworthy",
-    "Zapfino",
-    "Apple SD Gothic Neo",
-    "Courier",
-    "Noto Serif Yezidi",
-    "STIX Two Math",
-    "Times",
-    "Verdana",
-    "Papyrus",
-    "Chalkboard",
-    "Gill Sans",
-    "Comic Sans MS",
-    "Lucida Grande",
-    "Optima",
-    "Bradley Hand",
-    "Noto Sans Canadian Aboriginal",
-    "PingFang TC",
-    "Impact",
-    "Noto Sans Masaram Gondi",
-    "Apple Symbols",
-    "American Typewriter",
-    "InaiMathi",
-    "Arial Black",
-    "STIX Two Text",
-    "Trebuchet MS",
-    "Didot",
     "SignPainter-HouseScript",
-    "Cochin",
-    "Luminari",
-    "Marker Felt"
+    "Avenir",
+    "PingFang TC",
+    "Hiragino Mincho ProN",
+    "Herculanum",
+    "Luminari"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -210,7 +174,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -223,10 +187,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

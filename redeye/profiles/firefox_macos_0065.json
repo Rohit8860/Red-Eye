@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Riyadh",
   "navigator": {
-    "hardwareConcurrency": 8,
+    "hardwareConcurrency": 10,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "ar-SA",
     "languages": [
-      "en-US",
+      "ar-SA",
+      "ar",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,22 +17,22 @@
   },
   "webgl": {
     "vendor": "ATI Technologies Inc.",
-    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
+    "renderer": "AMD Radeon Pro 580 OpenGL Engine"
   },
   "screen": {
-    "width": 2560,
-    "height": 1440,
-    "availWidth": 2503,
-    "availHeight": 1410,
+    "width": 960,
+    "height": 540,
+    "availWidth": 960,
+    "availHeight": 525,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
-    "devicePixelRatio": 1,
+    "devicePixelRatio": 2,
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2001,
-    "outerHeight": 1252
+    "outerWidth": 1728,
+    "outerHeight": 1084
   },
   "battery": {
     "charging": true,
@@ -51,52 +52,17 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Marker Felt",
-    "Apple SD Gothic Neo",
-    "Arial Black",
-    "STIX Two Math",
-    "Impact",
-    "Zapfino",
-    "Futura",
-    "Baskerville",
-    "STIX Two Text",
-    "Verdana",
-    "Galvji",
-    "Gill Sans",
-    "Cochin",
-    "Hiragino Mincho ProN",
-    "Georgia",
-    "Arial Unicode MS",
-    "Papyrus",
-    "Kohinoor Devanagari",
-    "Trebuchet MS",
-    "MuktaMahee Regular",
-    "Times",
-    "Noteworthy",
-    "Apple Symbols",
-    "Bodoni 72",
-    "Luminari",
-    "Noto Sans Gunjala Gondi",
-    "PingFang TC",
-    "Noto Serif Yezidi",
-    "PingFang SC",
     "Chalkboard",
-    "American Typewriter",
-    "Courier",
-    "Herculanum",
-    "PingFang HK",
-    "Copperplate",
-    "Noto Sans Canadian Aboriginal",
+    "PingFang SC",
     "Hiragino Sans",
-    "Avenir",
+    "Times",
+    "Cochin",
+    "Noto Sans Canadian Aboriginal",
+    "Marker Felt",
     "Bradley Hand",
-    "Optima",
-    "Avenir Next",
-    "InaiMathi",
-    "Lucida Grande",
-    "Didot",
-    "Noto Sans Masaram Gondi",
-    "Comic Sans MS"
+    "PingFang HK",
+    "Futura",
+    "SignPainter-HouseScript"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -214,7 +180,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -227,10 +193,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

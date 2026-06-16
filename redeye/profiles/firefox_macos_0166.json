@@ -1,10 +1,10 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Los_Angeles",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "language": "en-US",
     "languages": [
       "en-US",
@@ -15,14 +15,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M1"
+    "vendor": "ATI Technologies Inc.",
+    "renderer": "AMD Radeon Pro 5500M OpenGL Engine"
   },
   "screen": {
-    "width": 1440,
-    "height": 900,
-    "availWidth": 1440,
-    "availHeight": 900,
+    "width": 1512,
+    "height": 982,
+    "availWidth": 1512,
+    "availHeight": 860,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -30,8 +30,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1440,
-    "outerHeight": 900
+    "outerWidth": 1512,
+    "outerHeight": 860
   },
   "battery": {
     "charging": true,
@@ -52,44 +52,26 @@
     "Geneva",
     "Monaco",
     "Georgia",
-    "Hiragino Mincho ProN",
-    "Papyrus",
-    "Chalkboard",
-    "Copperplate",
-    "Apple SD Gothic Neo",
-    "InaiMathi",
-    "Luminari",
-    "Comic Sans MS",
-    "Times",
-    "Noto Serif Yezidi",
-    "PingFang HK",
-    "Gill Sans",
-    "Avenir",
-    "STIX Two Math",
-    "Trebuchet MS",
-    "Impact",
-    "STIX Two Text",
-    "PingFang SC",
-    "Didot",
-    "Verdana",
-    "PingFang TC",
-    "Hiragino Sans",
-    "American Typewriter",
-    "Marker Felt",
-    "Avenir Next",
-    "Zapfino",
-    "Herculanum",
-    "Noteworthy",
-    "Cochin",
-    "Bodoni 72",
-    "Baskerville",
-    "Noto Sans Gunjala Gondi",
-    "Arial Unicode MS",
-    "Arial Black",
-    "Optima",
     "Apple Symbols",
+    "Comic Sans MS",
+    "Arial Unicode MS",
+    "STIX Two Math",
     "Kohinoor Devanagari",
-    "Futura"
+    "Times",
+    "Optima",
+    "Baskerville",
+    "Lucida Grande",
+    "Hiragino Sans",
+    "Courier",
+    "Luminari",
+    "Hiragino Mincho ProN",
+    "Didot",
+    "PingFang SC",
+    "Papyrus",
+    "Arial Black",
+    "Avenir",
+    "Noto Sans Masaram Gondi",
+    "Impact"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -207,7 +189,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -220,10 +202,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

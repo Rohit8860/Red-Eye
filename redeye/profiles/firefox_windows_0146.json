@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "America/Sao_Paulo",
   "navigator": {
     "hardwareConcurrency": 16,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "pt-BR",
     "languages": [
-      "en-US",
+      "pt-BR",
+      "pt",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,13 +17,13 @@
   },
   "webgl": {
     "vendor": "Google Inc. (AMD)",
-    "renderer": "ANGLE (AMD, Radeon RX 6600 XT Direct3D11 vs_5_0 ps_5_0)"
+    "renderer": "ANGLE (AMD, Radeon RX 5600 XT Direct3D11 vs_5_0 ps_5_0)"
   },
   "screen": {
-    "width": 1920,
-    "height": 1080,
-    "availWidth": 1920,
-    "availHeight": 1080,
+    "width": 5120,
+    "height": 1440,
+    "availWidth": 5120,
+    "availHeight": 1392,
     "colorDepth": 24,
     "pixelDepth": 24,
     "touch": false,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 1936,
-    "outerHeight": 1096
+    "outerWidth": 1884,
+    "outerHeight": 1392
   },
   "battery": {
     "charging": true,
@@ -53,9 +54,36 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
+    "NSimSun",
+    "Segoe UI Variable",
+    "Yu Gothic Medium",
+    "MS UI Gothic",
+    "Javanese Text",
+    "PMingLiU-ExtB",
+    "Candara",
+    "Comic Sans MS",
+    "Microsoft Yi Baiti",
+    "Malgun Gothic Semilight",
+    "Symbol",
+    "Calibri Light",
+    "Wingdings",
+    "Webdings",
+    "Segoe Print",
+    "Segoe UI Symbol",
+    "Impact",
+    "Microsoft New Tai Lue",
+    "Sylfaen",
+    "Sitka Heading",
+    "Sitka Text",
+    "Microsoft YaHei Light",
+    "Nirmala UI",
     "Segoe UI Black",
-    "Segoe UI Light",
-    "MS PGothic"
+    "Ebrima",
+    "Trebuchet MS",
+    "HoloLens MDL2 Assets",
+    "Candara Light",
+    "MS Gothic",
+    "Microsoft JhengHei Light"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -173,7 +201,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -186,10 +214,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

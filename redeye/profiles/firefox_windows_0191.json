@@ -1,13 +1,14 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Asia/Jakarta",
   "navigator": {
-    "hardwareConcurrency": 12,
+    "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "Win32",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "id-ID",
     "languages": [
-      "en-US",
+      "id-ID",
+      "id",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -16,12 +17,12 @@
   },
   "webgl": {
     "vendor": "Google Inc. (NVIDIA)",
-    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 980 Direct3D11 vs_5_0 ps_5_0)"
+    "renderer": "ANGLE (NVIDIA, NVIDIA GeForce GTX 1080 Ti Direct3D11 vs_5_0 ps_5_0)"
   },
   "screen": {
-    "width": 5120,
+    "width": 3440,
     "height": 1440,
-    "availWidth": 5120,
+    "availWidth": 3440,
     "availHeight": 1392,
     "colorDepth": 24,
     "pixelDepth": 24,
@@ -30,8 +31,8 @@
     "hasHDR": false,
     "innerWidth": 0,
     "innerHeight": 0,
-    "outerWidth": 2462,
-    "outerHeight": 1399
+    "outerWidth": 1976,
+    "outerHeight": 1109
   },
   "battery": {
     "charging": true,
@@ -53,22 +54,11 @@
     "Tahoma",
     "Microsoft Sans Serif",
     "Marlett",
-    "Trebuchet MS",
-    "Segoe Fluent Icons",
-    "Sitka Small",
-    "Malgun Gothic Semilight",
-    "PMingLiU-ExtB",
-    "Myanmar Text",
-    "MS UI Gothic",
-    "Sylfaen",
-    "Microsoft New Tai Lue",
-    "Malgun Gothic",
-    "Segoe UI Semilight",
-    "Sitka Display",
-    "Webdings",
-    "Microsoft JhengHei Light",
-    "Ink Free",
-    "Segoe UI Semibold"
+    "Gabriola",
+    "Microsoft Tai Le",
+    "Segoe Script",
+    "Consolas",
+    "Candara Light"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -186,7 +176,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -199,10 +189,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "windows",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }

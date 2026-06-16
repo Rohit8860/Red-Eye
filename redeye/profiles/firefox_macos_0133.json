@@ -1,13 +1,13 @@
 {
-  "timezone": "America/New_York",
+  "timezone": "Europe/London",
   "navigator": {
     "hardwareConcurrency": 8,
     "deviceMemory": 8,
     "platform": "MacIntel",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
-    "language": "en-US",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
+    "language": "en-GB",
     "languages": [
-      "en-US",
+      "en-GB",
       "en"
     ],
     "maxTouchPoints": 0,
@@ -15,14 +15,14 @@
     "userAgentData": null
   },
   "webgl": {
-    "vendor": "Apple",
-    "renderer": "Apple M1 Max"
+    "vendor": "Intel Inc.",
+    "renderer": "Intel HD Graphics 4000 OpenGL Engine"
   },
   "screen": {
     "width": 2560,
-    "height": 1440,
+    "height": 1600,
     "availWidth": 2560,
-    "availHeight": 1440,
+    "availHeight": 1480,
     "colorDepth": 30,
     "pixelDepth": 30,
     "touch": false,
@@ -31,7 +31,7 @@
     "innerWidth": 0,
     "innerHeight": 0,
     "outerWidth": 2560,
-    "outerHeight": 1410
+    "outerHeight": 1480
   },
   "battery": {
     "charging": true,
@@ -51,28 +51,30 @@
     "Menlo",
     "Geneva",
     "Monaco",
-    "Bradley Hand",
-    "Georgia",
-    "Noto Sans Gunjala Gondi",
-    "PingFang HK",
-    "Galvji",
-    "Optima",
     "Noteworthy",
-    "STIX Two Text",
-    "Noto Sans Canadian Aboriginal",
-    "PingFang SC",
-    "Baskerville",
     "Noto Sans Masaram Gondi",
+    "Noto Sans Gunjala Gondi",
+    "MuktaMahee Regular",
+    "Georgia",
+    "Baskerville",
+    "Luminari",
+    "Chalkboard",
+    "Cochin",
+    "Impact",
+    "Arial Black",
+    "Futura",
+    "Noto Sans Canadian Aboriginal",
     "Herculanum",
     "Marker Felt",
-    "Lucida Grande",
-    "Times",
-    "Luminari",
+    "Apple SD Gothic Neo",
+    "Optima",
+    "PingFang HK",
+    "Papyrus",
+    "Hiragino Sans",
+    "Avenir Next",
+    "Hiragino Mincho ProN",
     "Apple Symbols",
-    "Cochin",
-    "American Typewriter",
-    "STIX Two Math",
-    "Avenir"
+    "Didot"
   ],
   "videoCodecs": {
     "ogg": "",
@@ -190,7 +192,7 @@
     ]
   },
   "headers": {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "en-US;q=1.0",
     "Accept-Encoding": "gzip, deflate, br, zstd",
@@ -203,10 +205,10 @@
   },
   "_metadata": {
     "source": "browserforge",
-    "generated_date": "2026-04-01",
+    "generated_date": "2026-06-16",
     "browser": "firefox",
     "os": "macos",
     "device_type": "desktop",
-    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0"
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:150.0) Gecko/20100101 Firefox/150.0"
   }
 }
